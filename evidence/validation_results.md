@@ -38,11 +38,11 @@ All three case files contain every field required by `core/input_schema.json`. A
 The final `general_et_finding` string is identical in the primary and both contrast responses. All three have SHA-256 digest:
 
 ```text
-ef70c2bf5fad93061d457b7bcfcb72bb818c1e298a6a6b793bbf8939f19789e5
+ee084c35068e302285167a154321d9abab809e3fba121616d3e59ef26590e370
 ```
 
 Application, organization, value, risk, recommendation, monitoring, and abstention fields were reviewed and differ in ways traceable to the supplied case context.
 
 ## Submission document quality assurance
 
-The final Agent Record was rendered and visually inspected page by page. The four-page document has no clipped body text, split data rows, or unresolved placeholders. Structural audits found one portrait Letter section, six Heading 1 paragraphs, no embedded images, no Word fields, no footnote/endnote references, and no content controls. The source template's package structure was preserved; only `word/document.xml` and `word/footer1.xml` changed. The source template retained SHA-256 `5275ea28e66a27d5ddfae3c0541ce7cf7711655a450da7eecb4d36b0ced7e802`, confirming that it was not overwritten. The final record has SHA-256 `66fabae733261a5022f2754940e843c57bc2fb915e77370f45d903ec8b5e9aa7`.
+The final Agent Record was rendered and visually inspected page by page. The four-page document has no clipped body text, split data rows, or unresolved placeholders. Structural audits found one portrait Letter section, six Heading 1 paragraphs, no embedded images, no Word fields, no footnote/endnote references, no content controls, no comments, and no tracked changes. The accessibility audit reported no findings. The source template's package structure was preserved; only `docProps/core.xml`, `word/document.xml`, and `word/footer1.xml` changed. The source template retained SHA-256 `5275ea28e66a27d5ddfae3c0541ce7cf7711655a450da7eecb4d36b0ced7e802`, confirming that it was not overwritten. The final record has SHA-256 `5fdaae7e227228ee749ca19f565a78eee621fde01a50fdebd38beeac26d52531`.

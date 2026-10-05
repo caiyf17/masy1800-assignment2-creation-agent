@@ -5,7 +5,7 @@
     "version": "0.2-student"
   },
   "analytical_question": "How did agentic AI emerge, and what does that creation history imply for a controlled financial-services pilot of agent-assisted chart improvement and evidence checking over the next 12 months?",
-  "general_et_finding": "Operationally, agentic AI means LLM-powered systems in which a model manages multi-step workflow execution and selects tools under instructions and guardrails, rather than merely generating a single response. The documented creation path is cumulative: the Transformer supplied a scalable attention-based architecture in 2017; large language models demonstrated general task adaptation through instructions and examples by 2020; instruction tuning and human feedback improved intent-following by 2022; ReAct interleaved reasoning with actions in 2022; Toolformer demonstrated learned API selection in 2023; MCP standardized connections to data and tools in 2024; and provider platforms packaged tools, orchestration, tracing, and managed harnesses in 2025-2026. The conclusion that modern agentic AI arose from the convergence of these capabilities and demand for handling ambiguous, multi-step, unstructured work is an analytical synthesis, not evidence that one paper or company invented the category. As of 2026, agentic AI has moved beyond research demonstrations into packaged infrastructure and reported deployments, but public-beta platforms and rapidly changing interfaces show that its architecture and assurance practices remain unsettled and application-specific.",
+  "general_et_finding": "Operationally, agentic AI means LLM-powered systems in which a model manages multi-step workflow execution and selects tools under instructions and guardrails, rather than merely generating a single response. The documented creation path is cumulative: the Transformer supplied a scalable attention-based architecture in 2017; large language models demonstrated general task adaptation through instructions and examples by 2020; instruction tuning and human feedback improved intent-following by 2022; ReAct interleaved reasoning with actions in 2022; Toolformer demonstrated learned API selection in 2023; MCP introduced an open protocol for connections to data and tools in 2024; and provider platforms packaged tools, orchestration, tracing, and managed harnesses in 2025-2026. Market demand for workflows involving contextual judgment, difficult rules, and unstructured data encouraged this combination. The conclusion that modern agentic AI arose from the convergence of these capabilities and needs is an analytical synthesis, not evidence that one paper or company invented the category. As of 2026, agentic AI has moved beyond research demonstrations into packaged infrastructure and provider-reported deployments, but public-beta platforms and rapidly changing interfaces show that its architecture and assurance practices remain unsettled and application-specific.",
   "application_finding": "The chart-review application matches part of the need that encouraged agentic systems: it combines unstructured report context, visual and textual judgment, iterative correction, and calls to data or file tools. The inherited reasoning-and-tool loop could help diagnose a chart, retrieve approved evidence, compare alternatives, and assemble a draft. The same history also shows why the workflow should be hybrid: probabilistic language-model reasoning should not replace deterministic calculations, schema checks, or data-lineage controls. Creation history therefore supports an agentic orchestration layer around testable tools, not an unconstrained model that calculates, verifies, and publishes by itself.",
   "organization_specific_finding": "For a conservative financial-services firm, the technology's evolving tool-connected architecture increases the consequence of an error because a flawed intermediate result can propagate into a management report. Existing BI, security, compliance, and analyst capabilities make a bounded pilot feasible, but sensitive data, regulatory duties, limited agent-specific evaluation evidence, and the ban on autonomous publication justify a read-only, allow-listed environment. A named analyst should approve every calculation, claim, and final visual, while logs preserve source lineage and tool actions. The organization's caution does not make agentic AI less developed in general; it raises the evidence threshold and narrows acceptable autonomy.",
   "evidence": [
@@ -28,7 +28,7 @@
       "source_or_reference": "Yao et al., ReAct: Synergizing Reasoning and Acting in Language Models, https://arxiv.org/abs/2210.03629",
       "date_or_recency": "2022-10-06; published at ICLR 2023",
       "evidence_type": "Original research paper",
-      "notes": "Establishes a research pattern combining reasoning and action loops. Benchmark results do not by themselves establish safe performance in financial reporting."
+      "notes": "Establishes a research pattern combining reasoning and action loops. Benchmark results do not by themselves establish safe performance in real-world reporting or decision workflows."
     },
     {
       "claim": "Toolformer demonstrated a language model trained to decide which APIs to call, when to call them, and how to incorporate returned results.",
@@ -49,7 +49,7 @@
       "source_or_reference": "OpenAI, New tools for building agents, https://openai.com/index/new-tools-for-building-agents/; OpenAI, Introducing the Agents API, https://openai.com/index/introducing-the-agents-api/",
       "date_or_recency": "2025-03-11 and 2026-09-10",
       "evidence_type": "Official product announcements",
-      "notes": "Establishes OpenAI's releases and current public-beta status. As first-party product evidence, it does not independently establish market-wide maturity or suitability for this firm."
+      "notes": "Establishes OpenAI's releases and current public-beta status. As first-party product evidence, it does not independently establish market-wide maturity or suitability for the target organization."
     },
     {
       "claim": "Agent use is most defensible where workflows require contextual judgment, contain difficult rules, or rely on unstructured data; evaluations, guardrails, and human intervention are recommended, especially for high-risk actions.",
@@ -61,7 +61,7 @@
   ],
   "contrary_evidence_or_limitations": [
     "Agentic AI is an umbrella term with contested boundaries; the operational definition used here is narrower than some market uses of the term.",
-    "The cited research demonstrates predecessor capabilities under specific experiments, not end-to-end reliability in regulated financial reporting.",
+    "The cited research demonstrates predecessor capabilities under specific experiments, not end-to-end reliability in the target workflow.",
     "Provider announcements document available infrastructure but are not independent evidence of cross-vendor maturity, safety, or business value.",
     "No organization-specific benchmark, error-rate study, security review, or cost analysis has yet been produced for the contemplated workflow.",
     "The convergence account is a supported synthesis, but the sources do not establish a single causal chain or sole inventor."
@@ -73,7 +73,7 @@
   "change_monitoring_triggers": [
     "Pilot evidence shows whether verified error rates, analyst review time, and false-confidence incidents improve against the current process.",
     "The Agents API or equivalent managed infrastructure moves from public beta to general availability with stable versioning and documented enterprise controls.",
-    "Independent evaluations emerge for agent reliability in data-analysis or financial-reporting workflows.",
+    "Independent evaluations emerge for agent reliability in data-analysis, visualization, or reporting workflows.",
     "A material change occurs in applicable privacy, model-risk, recordkeeping, or financial-services guidance.",
     "The firm develops an approved agent evaluation set, secure tool gateway, or stronger data-lineage controls.",
     "A security incident, fabricated source, incorrect calculation, or unexplained tool action crosses the pilot's stop threshold."

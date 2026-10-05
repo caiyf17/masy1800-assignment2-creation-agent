@@ -26,7 +26,7 @@ Access date for web sources: 2026-10-05.
 
 6. Anthropic. (2024, November 25). *Introducing the Model Context Protocol*. https://www.anthropic.com/news/model-context-protocol
    - Official announcement of an open standard for connecting AI applications to data sources and tools.
-   - Supports the ecosystem-enabler claim that standardized integrations reduce the cost of connecting agents to organizational systems.
+   - Supports the ecosystem-enabler claim that an open protocol can replace some fragmented, source-specific integrations; it does not establish universal adoption or implementation quality.
 
 7. OpenAI. (2025, March 11). *New tools for building agents*. https://openai.com/index/new-tools-for-building-agents/
    - Official launch description for the Responses API, built-in tools, Agents SDK, guardrails, tracing, and orchestration support.

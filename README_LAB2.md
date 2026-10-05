@@ -8,7 +8,7 @@ This working copy contains Yufei Cai's Emerging Technology Creation Agent for Ag
 - `agents/creation_agent/cases/` - primary and two context-contrast cases.
 - `agents/creation_agent/prompts/` - preserved prompt packets for the weak baseline and final runs.
 - `agents/creation_agent/responses/` - weak baseline, final primary response, and two final contrast responses.
-- `agents/creation_agent/records/` - concise agent record and self-reflection.
+- `agents/creation_agent/records/agent_record.md` - concise agent record, including the self-reflection.
 - `evidence/source_register.md` - dated evidence register with claim boundaries.
 - `evidence/failure_and_revision_record.md` - preserved weakness and revision decision.
 - `evidence/context_contrast_analysis.md` - stable-versus-changed comparison.

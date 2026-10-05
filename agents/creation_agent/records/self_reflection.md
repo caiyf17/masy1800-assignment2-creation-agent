@@ -1,7 +1,0 @@
-# Self Reflection
-
-My first response looked complete because it followed the JSON schema, but testing showed that structural correctness was not the same as credible analysis. I had reduced the creation of agentic AI to a vague combination of large language models, reasoning, and tools. That summary omitted the dated predecessor chain and made it too easy to move from a general history directly to a deployment recommendation.
-
-The most important change in my thinking was recognizing that creation analysis must separate documented milestones from my synthesis about how they converged. The Transformer, instruction following, reasoning-action loops, tool-use research, integration standards, and packaged agent infrastructure are documented developments. The claim that modern agentic AI emerged from their convergence is my interpretation and should be labeled that way. I also learned that the same history can support very different management actions: a financial-services firm needs a narrow read-only pilot, while a small media startup can permit broader experimentation inside a draft queue.
-
-This exercise reinforced the professional practice I identified in Lab 1. AI can produce polished structure quickly, but I remain responsible for evidence quality, context, uncertainty, and the boundary between analysis and authorization. In future agent work, I will test semantic quality separately from schema validity and preserve a failed run instead of presenting only the final answer.

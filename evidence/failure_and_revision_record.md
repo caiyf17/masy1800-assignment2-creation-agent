@@ -4,7 +4,7 @@
 
 - Agent version: 0.1-student
 - Case: `agents/creation_agent/cases/primary.json`
-- Prompt packet: `work/creation_agent_primary_v0_1_prompt.txt`
+- Prompt packet: `agents/creation_agent/prompts/primary_v0_1_prompt.txt`
 - Preserved response: `agents/creation_agent/responses/primary_response_v0_1_weak.json`
 
 ## Informative weakness

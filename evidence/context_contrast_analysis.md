@@ -12,7 +12,7 @@ The tests hold the emerging technology and analysis date constant while changing
 
 ## What appropriately stayed stable
 
-The `general_et_finding` is identical across all three final responses. Its SHA-256 digest is `ef70c2bf5fad93061d457b7bcfcb72bb818c1e298a6a6b793bbf8939f19789e5` in each file. The stable conclusion is that modern agentic AI emerged cumulatively from Transformer models, general-purpose language interaction, instruction following, reasoning-action loops, model-directed tool use, integration standards, and packaged agent infrastructure. The synthesis also remains stable that the category is productizing rapidly but retains unsettled, application-specific assurance practices.
+The `general_et_finding` is identical across all three final responses. Its SHA-256 digest is `ee084c35068e302285167a154321d9abab809e3fba121616d3e59ef26590e370` in each file. The stable conclusion is that modern agentic AI emerged cumulatively from Transformer models, general-purpose language interaction, instruction following, reasoning-action loops, model-directed tool use, an open integration protocol, market demand for contextual workflows, and packaged agent infrastructure. The synthesis also remains stable that the category is productizing rapidly but retains unsettled, application-specific assurance practices.
 
 This stability is appropriate because a more aggressive startup does not alter the dates or substance of the underlying research and infrastructure history, and a conservative financial-services firm does not make the technology less developed in general.
 
