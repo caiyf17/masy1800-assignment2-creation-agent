@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Agentic AI",
+  "intended_application": "An agent-assisted workflow that checks and improves internal enrollment and student-service dashboards before administrative review.",
+  "organization": "A large private university with decentralized analytics teams and central privacy, security, and institutional-research offices.",
+  "industry_sector": "Higher education administration and institutional analytics.",
+  "business_need": "Reduce repeated dashboard-quality problems and help decentralized analysts apply consistent evidence and visualization checks.",
+  "users_stakeholders": "Institutional researchers, school administrators, student-service teams, privacy and security staff, faculty leaders, and students represented in the data.",
+  "adoption_posture": "Moderate and fast-follower. The university will experiment with mature components but expects privacy review, documented controls, and human approval.",
+  "capabilities_constraints": "The university has data warehouses and BI tools but uneven local analytics skills, fragmented governance, limited integration capacity, and education-record privacy obligations.",
+  "risk_consequence_context": "Incorrect dashboards can misallocate resources or misrepresent student outcomes. Exposure of student-level data would be consequential; internal draft revisions are otherwise reversible.",
+  "management_question": "Should the university pilot agentic AI for dashboard quality assurance, and what design boundaries follow from the technology's creation history?",
+  "time_horizon": "A six-month pilot before the next annual planning cycle.",
+  "additional_context": "The pilot must use de-identified or role-authorized data, preserve lineage, and require institutional-research approval before dashboard release."
+}

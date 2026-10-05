@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Agentic AI",
+  "intended_application": "An agent-assisted workflow that improves exploratory charts made from public datasets, checks chart-to-source consistency, and drafts captions for an internal editorial review queue.",
+  "organization": "A 20-person digital-media startup producing non-investment educational content from public data.",
+  "industry_sector": "Digital media and data journalism.",
+  "business_need": "Increase the speed and consistency of chart production while allowing a small editorial team to test more visual alternatives.",
+  "users_stakeholders": "Data journalists, editors, designers, readers, and public-data publishers.",
+  "adoption_posture": "Aggressive and leading-edge. The company accepts frequent experimentation when work remains in a draft queue and failures are inexpensive to reverse.",
+  "capabilities_constraints": "The startup uses cloud analytics tools, public datasets, and lightweight editorial review. It has limited engineering capacity and no dedicated model-risk team, but all public content receives editor approval.",
+  "risk_consequence_context": "Most draft failures are reversible and involve rework. Published inaccuracies can still harm credibility, but the workflow does not use confidential customer data or make regulated decisions.",
+  "management_question": "Should the startup adopt an agent-assisted chart workflow during the next editorial cycle, and how much experimental autonomy is justified by the technology's creation history?",
+  "time_horizon": "A 90-day pilot beginning this quarter.",
+  "additional_context": "The agent may generate multiple draft designs and captions from approved public sources. An editor remains responsible for factual verification and publication."
+}

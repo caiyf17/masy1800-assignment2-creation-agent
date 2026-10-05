@@ -1,0 +1,87 @@
+{
+  "agent": {
+    "name": "Emerging Technology Creation Agent",
+    "specialty": "Technology creation and evolution analysis",
+    "version": "0.2-student"
+  },
+  "analytical_question": "How did agentic AI emerge, and what does that creation history imply for a controlled financial-services pilot of agent-assisted chart improvement and evidence checking over the next 12 months?",
+  "general_et_finding": "Operationally, agentic AI means LLM-powered systems in which a model manages multi-step workflow execution and selects tools under instructions and guardrails, rather than merely generating a single response. The documented creation path is cumulative: the Transformer supplied a scalable attention-based architecture in 2017; large language models demonstrated general task adaptation through instructions and examples by 2020; instruction tuning and human feedback improved intent-following by 2022; ReAct interleaved reasoning with actions in 2022; Toolformer demonstrated learned API selection in 2023; MCP standardized connections to data and tools in 2024; and provider platforms packaged tools, orchestration, tracing, and managed harnesses in 2025-2026. The conclusion that modern agentic AI arose from the convergence of these capabilities and demand for handling ambiguous, multi-step, unstructured work is an analytical synthesis, not evidence that one paper or company invented the category. As of 2026, agentic AI has moved beyond research demonstrations into packaged infrastructure and reported deployments, but public-beta platforms and rapidly changing interfaces show that its architecture and assurance practices remain unsettled and application-specific.",
+  "application_finding": "The chart-review application matches part of the need that encouraged agentic systems: it combines unstructured report context, visual and textual judgment, iterative correction, and calls to data or file tools. The inherited reasoning-and-tool loop could help diagnose a chart, retrieve approved evidence, compare alternatives, and assemble a draft. The same history also shows why the workflow should be hybrid: probabilistic language-model reasoning should not replace deterministic calculations, schema checks, or data-lineage controls. Creation history therefore supports an agentic orchestration layer around testable tools, not an unconstrained model that calculates, verifies, and publishes by itself.",
+  "organization_specific_finding": "For a conservative financial-services firm, the technology's evolving tool-connected architecture increases the consequence of an error because a flawed intermediate result can propagate into a management report. Existing BI, security, compliance, and analyst capabilities make a bounded pilot feasible, but sensitive data, regulatory duties, limited agent-specific evaluation evidence, and the ban on autonomous publication justify a read-only, allow-listed environment. A named analyst should approve every calculation, claim, and final visual, while logs preserve source lineage and tool actions. The organization's caution does not make agentic AI less developed in general; it raises the evidence threshold and narrows acceptable autonomy.",
+  "evidence": [
+    {
+      "claim": "The Transformer replaced recurrence and convolution with an attention-based architecture and improved parallelizability, providing a foundational architecture for later large language models.",
+      "source_or_reference": "Vaswani et al., Attention Is All You Need, https://arxiv.org/abs/1706.03762",
+      "date_or_recency": "2017-06-12",
+      "evidence_type": "Original research paper",
+      "notes": "Establishes the Transformer architecture and reported machine-translation results. It does not establish agent behavior or organizational value."
+    },
+    {
+      "claim": "Large autoregressive language models demonstrated task adaptation from natural-language instructions and examples without task-specific gradient updates, and later instruction tuning with human feedback improved intent-following.",
+      "source_or_reference": "Brown et al., Language Models are Few-Shot Learners, https://arxiv.org/abs/2005.14165; Ouyang et al., Training language models to follow instructions with human feedback, https://arxiv.org/abs/2203.02155",
+      "date_or_recency": "2020-05-28 and 2022-03-04",
+      "evidence_type": "Original research papers",
+      "notes": "Supports general-purpose language interaction and improved instruction following as predecessor capabilities. Both papers document limitations; neither proves autonomous workflow reliability."
+    },
+    {
+      "claim": "ReAct interleaved language-model reasoning traces with task-specific actions and interaction with external information sources or environments.",
+      "source_or_reference": "Yao et al., ReAct: Synergizing Reasoning and Acting in Language Models, https://arxiv.org/abs/2210.03629",
+      "date_or_recency": "2022-10-06; published at ICLR 2023",
+      "evidence_type": "Original research paper",
+      "notes": "Establishes a research pattern combining reasoning and action loops. Benchmark results do not by themselves establish safe performance in financial reporting."
+    },
+    {
+      "claim": "Toolformer demonstrated a language model trained to decide which APIs to call, when to call them, and how to incorporate returned results.",
+      "source_or_reference": "Schick et al., Toolformer: Language Models Can Teach Themselves to Use Tools, https://arxiv.org/abs/2302.04761",
+      "date_or_recency": "2023-02-09",
+      "evidence_type": "Original research paper",
+      "notes": "Supports model-directed tool selection as a predecessor capability. It does not establish the reliability of arbitrary enterprise tools or multi-step production workflows."
+    },
+    {
+      "claim": "MCP was released as an open standard for connecting AI applications with data sources and tools, reducing the need for separate custom connectors.",
+      "source_or_reference": "Anthropic, Introducing the Model Context Protocol, https://www.anthropic.com/news/model-context-protocol",
+      "date_or_recency": "2024-11-25",
+      "evidence_type": "Official standards and ecosystem announcement",
+      "notes": "Establishes the protocol's stated purpose, architecture, and initial release. It does not prove universal adoption, security, or interoperability in every implementation."
+    },
+    {
+      "claim": "Agent platforms packaged model-controlled workflows with tools, instructions, guardrails, tracing, orchestration, and managed runtime infrastructure.",
+      "source_or_reference": "OpenAI, New tools for building agents, https://openai.com/index/new-tools-for-building-agents/; OpenAI, Introducing the Agents API, https://openai.com/index/introducing-the-agents-api/",
+      "date_or_recency": "2025-03-11 and 2026-09-10",
+      "evidence_type": "Official product announcements",
+      "notes": "Establishes OpenAI's releases and current public-beta status. As first-party product evidence, it does not independently establish market-wide maturity or suitability for this firm."
+    },
+    {
+      "claim": "Agent use is most defensible where workflows require contextual judgment, contain difficult rules, or rely on unstructured data; evaluations, guardrails, and human intervention are recommended, especially for high-risk actions.",
+      "source_or_reference": "OpenAI, A practical guide to building agents, https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/",
+      "date_or_recency": "Accessed 2026-10-05; course PDF captured 2026-08-22",
+      "evidence_type": "Official practitioner guidance and assigned course source",
+      "notes": "Supports the stated design need and control pattern. It is guidance from a platform provider, not independent proof that this use case will achieve acceptable accuracy or return on investment."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "Agentic AI is an umbrella term with contested boundaries; the operational definition used here is narrower than some market uses of the term.",
+    "The cited research demonstrates predecessor capabilities under specific experiments, not end-to-end reliability in regulated financial reporting.",
+    "Provider announcements document available infrastructure but are not independent evidence of cross-vendor maturity, safety, or business value.",
+    "No organization-specific benchmark, error-rate study, security review, or cost analysis has yet been produced for the contemplated workflow.",
+    "The convergence account is a supported synthesis, but the sources do not establish a single causal chain or sole inventor."
+  ],
+  "confidence_and_uncertainty": "High confidence in the dated predecessor milestones and official platform releases; moderate confidence in the synthesis that their convergence defines the modern agentic-AI category; moderate confidence that chart review is structurally compatible with agentic orchestration; and low confidence in organization-specific reliability, compliance, cost, and value until a controlled pilot produces evidence. The current evolutionary-stage judgment should be revisited because the 2026 managed platform is still in public beta and interfaces are changing quickly.",
+  "value_opportunity_implication": "The strongest opportunity is not autonomous chart production but faster, more consistent preparation of reviewable drafts: the agent can coordinate retrieval, diagnosis, alternative generation, and documentation while deterministic tools preserve calculations and lineage. This could let analysts spend more time on judgment and exception handling if the pilot shows that review effort and error rates improve rather than merely shift downstream.",
+  "risk_governance_implication": "Tool-connected multi-step execution can propagate an early error or expose sensitive data across systems. The pilot should therefore use approved data only, least-privilege and allow-listed tools, deterministic recomputation of numerical claims, full source and action logging, fixed exit conditions, test cases that include misleading charts and ambiguous denominators, and mandatory analyst approval before any report is distributed. Security, compliance, model-risk, and data owners retain approval authority.",
+  "recommendation_management_implication": "Run a reversible, read-only pilot rather than authorize production deployment. Begin with a single-agent workflow that can retrieve approved evidence, diagnose charts, and draft recommendations; keep calculations and lineage checks deterministic; prohibit external publication and irreversible actions; and define pass/fail evaluation thresholds before testing. After the pilot, hand evidence on accuracy, review time, failure modes, privacy, and cost to adoption-readiness, security, compliance, and model-risk decision makers. This Creation Agent does not approve production use.",
+  "change_monitoring_triggers": [
+    "Pilot evidence shows whether verified error rates, analyst review time, and false-confidence incidents improve against the current process.",
+    "The Agents API or equivalent managed infrastructure moves from public beta to general availability with stable versioning and documented enterprise controls.",
+    "Independent evaluations emerge for agent reliability in data-analysis or financial-reporting workflows.",
+    "A material change occurs in applicable privacy, model-risk, recordkeeping, or financial-services guidance.",
+    "The firm develops an approved agent evaluation set, secure tool gateway, or stronger data-lineage controls.",
+    "A security incident, fabricated source, incorrect calculation, or unexplained tool action crosses the pilot's stop threshold."
+  ],
+  "abstention_or_more_information_needed": [
+    "Organization-specific accuracy, security, compliance, latency, and cost evidence is required before any production recommendation.",
+    "A diffusion specialist should assess adoption patterns and ecosystem momentum; this agent only identifies current creation and productization evidence.",
+    "An adoption-readiness specialist and accountable firm authorities must decide timing, vendor selection, implementation architecture, compliance, and risk acceptance.",
+    "If approved datasets, calculation definitions, source lineage, or human decision ownership cannot be specified, the proposed pilot should not proceed."
+  ]
+}

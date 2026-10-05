@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Agentic AI",
+  "intended_application": "An agent-assisted workflow that reviews business charts, checks whether chart claims match approved source data, proposes clearer designs, and prepares draft chart notes for internal management reports.",
+  "organization": "A mid-sized United States financial-services firm with centralized business analytics, model-risk, information-security, and compliance functions.",
+  "industry_sector": "Regulated financial services and internal management reporting.",
+  "business_need": "Reduce chart-review turnaround time and inconsistent evidence checks without weakening data lineage, review accountability, or management trust.",
+  "users_stakeholders": "Business analysts, analytics managers, model-risk staff, compliance reviewers, information-security staff, executives who consume reports, and customers indirectly affected by management decisions.",
+  "adoption_posture": "Conservative and risk-averse. The firm permits bounded pilots but requires evidence of reliability, access control, auditability, and named human decision ownership before broader adoption.",
+  "capabilities_constraints": "The firm has an established BI stack, approved data repositories, experienced analysts, and security review processes. Constraints include sensitive data, legacy systems, limited agent-specific evaluation data, strict vendor review, and a prohibition on autonomous external publication.",
+  "risk_consequence_context": "A fabricated claim, incorrect denominator, privacy breach, or misleading visual could affect executive decisions, regulatory obligations, and reputation. Drafts are reversible, but distribution of an incorrect report can have material consequences.",
+  "management_question": "Should the firm run a controlled pilot of agentic AI for internal chart improvement and evidence checking, and what limits follow from the technology's creation history?",
+  "time_horizon": "Pilot decision now, with evaluation over the next 12 months.",
+  "additional_context": "The contemplated system may read approved datasets and draft recommendations, but a named analyst must verify calculations, evidence, and the final chart before publication. Every factual claim must retain a source or data-lineage reference."
+}
