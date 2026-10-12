@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-12",
+  "scope": "Saved artifacts, schema and targeted regression checks; does not measure live model reliability or business outcomes",
+  "passed": 36,
+  "total": 36,
+  "checks": [
+    {
+      "check": "Frozen core integrity",
+      "passed": true,
+      "detail": "FROZEN CORE INTACT"
+    },
+    {
+      "check": "primary input contract",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "primary full output contract",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "primary course validator",
+      "passed": true,
+      "detail": "VALIDATION PASSED"
+    },
+    {
+      "check": "primary version",
+      "passed": true,
+      "detail": "Metadata matches submitted agent"
+    },
+    {
+      "check": "primary source references",
+      "passed": true,
+      "detail": "References exist; source applicability was reviewed separately"
+    },
+    {
+      "check": "primary prompt packet",
+      "passed": true,
+      "detail": "Packet contains final specialist logic"
+    },
+    {
+      "check": "primary fictional context",
+      "passed": true,
+      "detail": "Organization assumptions identified"
+    },
+    {
+      "check": "primary role boundary",
+      "passed": true,
+      "detail": "Routes consequential adjacent questions"
+    },
+    {
+      "check": "contrast input contract",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "contrast full output contract",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "contrast course validator",
+      "passed": true,
+      "detail": "VALIDATION PASSED"
+    },
+    {
+      "check": "contrast version",
+      "passed": true,
+      "detail": "Metadata matches submitted agent"
+    },
+    {
+      "check": "contrast source references",
+      "passed": true,
+      "detail": "References exist; source applicability was reviewed separately"
+    },
+    {
+      "check": "contrast prompt packet",
+      "passed": true,
+      "detail": "Packet contains final specialist logic"
+    },
+    {
+      "check": "contrast fictional context",
+      "passed": true,
+      "detail": "Organization assumptions identified"
+    },
+    {
+      "check": "contrast role boundary",
+      "passed": true,
+      "detail": "Routes consequential adjacent questions"
+    },
+    {
+      "check": "borderline input contract",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "borderline full output contract",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "borderline course validator",
+      "passed": true,
+      "detail": "VALIDATION PASSED"
+    },
+    {
+      "check": "borderline version",
+      "passed": true,
+      "detail": "Metadata matches submitted agent"
+    },
+    {
+      "check": "borderline source references",
+      "passed": true,
+      "detail": "References exist; source applicability was reviewed separately"
+    },
+    {
+      "check": "borderline prompt packet",
+      "passed": true,
+      "detail": "Packet contains final specialist logic"
+    },
+    {
+      "check": "borderline fictional context",
+      "passed": true,
+      "detail": "Organization assumptions identified"
+    },
+    {
+      "check": "borderline role boundary",
+      "passed": true,
+      "detail": "Routes consequential adjacent questions"
+    },
+    {
+      "check": "Shared contrast conditions",
+      "passed": true,
+      "detail": "Technology, question and horizon fixed; other variables change together"
+    },
+    {
+      "check": "Appropriately stable general finding",
+      "passed": true,
+      "detail": "Intentionally reused general analysis, not independent repeatability"
+    },
+    {
+      "check": "Context-sensitive business-model contrast",
+      "passed": true,
+      "detail": "Different positions in the value chain explain qualitative contrast"
+    },
+    {
+      "check": "Conditional alternative preserved",
+      "passed": true,
+      "detail": "Media efficiency-only interpretation is not suppressed"
+    },
+    {
+      "check": "Borderline challenges branding",
+      "passed": true,
+      "detail": "Fixed automation is not accepted as adaptive tool use"
+    },
+    {
+      "check": "Missing business model abstention",
+      "passed": true,
+      "detail": "Withholds unsupported disruption level and requests relevant inputs"
+    },
+    {
+      "check": "Implementation distinction",
+      "passed": true,
+      "detail": "Proposed and implemented status differentiated"
+    },
+    {
+      "check": "Saved diagnostic contract",
+      "passed": true,
+      "detail": "An analytically weak example can be structurally valid"
+    },
+    {
+      "check": "Failure and correction trace",
+      "passed": true,
+      "detail": "Novelty, implementation and disruption defects recorded"
+    },
+    {
+      "check": "Reject extra output field",
+      "passed": true,
+      "detail": "Frozen output disallows unrecognized top-level fields"
+    },
+    {
+      "check": "Reject missing finding",
+      "passed": true,
+      "detail": "Both the frozen validator and complete contract check reject missing field"
+    }
+  ]
+}

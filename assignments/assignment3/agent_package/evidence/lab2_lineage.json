@@ -1,0 +1,25 @@
+{
+  "source": "Lab2 personal Creation Agent cases",
+  "reused_files": [
+    "agents/creation_agent/cases/primary.json",
+    "agents/creation_agent/cases/contrast_1.json"
+  ],
+  "reused_elements": [
+    "Agentic AI",
+    "chart review application",
+    "financial-services organization",
+    "media organization"
+  ],
+  "new_elements": [
+    "innovation and disruption question",
+    "explicit fictional business-model assumptions",
+    "shared 12-month horizon",
+    "borderline branded-automation case",
+    "all Lab3 specialist instructions and responses"
+  ],
+  "source_sha256": {
+    "primary.json": "6a9fc90d4196712fb4866681193cc3b5e040d6a5d85cfcb000d7ebba7b65eb46",
+    "contrast_1.json": "993a1cb6824d9dae853d838181058448ad3fc85307a0dfa88e4f4b87e100e32b"
+  },
+  "note": "Lab2 files remain unchanged. Lab3 adds an independent specialist using the same frozen contracts; it does not relabel Creation outputs."
+}
