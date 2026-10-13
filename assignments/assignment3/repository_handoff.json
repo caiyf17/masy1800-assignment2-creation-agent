@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/caiyf17/masy1800-assignment2-creation-agent",
+  "branch": "assignment-3-innovation-disruption-agent",
+  "assignment_path": "assignments/assignment3",
+  "branch_url": "https://github.com/caiyf17/masy1800-assignment2-creation-agent/tree/assignment-3-innovation-disruption-agent/assignments/assignment3",
+  "agent_package_commit": "092f66a585094a5f09b330ac5d8960d508ca7702",
+  "commit_url": "https://github.com/caiyf17/masy1800-assignment2-creation-agent/commit/092f66a585094a5f09b330ac5d8960d508ca7702",
+  "note": "The package commit is a stable evidence reference. The completed Word record and final quality-audit files are added in a later commit on the same branch. No self-referential final commit hash is claimed.",
+  "lab2_preservation": "Existing Lab2 repository paths are preserved; the Lab3 additions use an assignment-specific branch and directory."
+}
