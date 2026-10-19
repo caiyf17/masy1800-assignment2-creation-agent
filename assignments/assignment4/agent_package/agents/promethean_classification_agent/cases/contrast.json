@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Agentic AI systems: an integrated language model, model-selected tools, observations, permissions and human stopping authority for bounded multi-step digital work. This is the system under analysis, not a single model, chart plugin or all of generative AI.",
+  "intended_application": "A proposed human-supervised chart-review workflow: compare business charts and claims with approved source tables using read-only tools, then draft corrections for a named human reviewer. No autonomous publication or financial/customer decisions.",
+  "business_need": "Investigate whether review effort can be reduced while maintaining source traceability and correct interpretation.",
+  "management_question": "What significance classification is justified for the defined agentic system, with what confidence, and how much should its long-range potential influence the present chart-review decision in this organization?",
+  "time_horizon": "A decision about a four-week evidence-gathering exercise now; organizational implications over 12 months; civilizational potential is a separate long-range question with no forecast date.",
+  "additional_context": "Constructed teaching scenario, not a real company or observed deployment. No pilot, chart-tool execution, measured chart-review savings, population-wide agent adoption or irreversible societal outcome is supplied. Treat source facts, inference and sponsor statements separately. Source packet: evidence/source_register.json, checked 2026-10-19. Course criteria C1-C6 and the system/barrier gates are analytical rules, not proof of current capabilities. Broader generative-AI evidence does not automatically establish this agentic system's performance or impact.",
+  "organization": "Hypothetical 20-person public-data educational-media startup",
+  "industry_sector": "Digital media and data journalism.",
+  "users_stakeholders": "Data journalists, editors, designers, readers, and public-data publishers.",
+  "adoption_posture": "Aggressive and leading-edge. The company accepts frequent experimentation when work remains in a draft queue and failures are inexpensive to reverse.",
+  "capabilities_constraints": "An approved public-data sandbox, cloud analytics and editor sign-off exist. Limited engineering capacity and no dedicated model-risk team. There is no measured agent performance or full-cost comparison. Published errors can still harm credibility.",
+  "risk_consequence_context": "Most draft failures are reversible and involve rework. Published inaccuracies can still harm credibility, but the workflow does not use confidential customer data or make regulated decisions."
+}

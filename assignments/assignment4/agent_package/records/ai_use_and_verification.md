@@ -1,0 +1,9 @@
+# AI use and verification
+
+ChatGPT/Codex inspected the teacher instructions, source template and rubric, examined prior Lab3 case files, checked original research and methodology pages, drafted the specialist rules and five response examples, created a disclosed diagnostic overclaim, diagnosed the defect, and prepared the report and package. Python constructs prompts and checks artifacts; it does not run a model. The same assistant authors and reviews examples, so these support qualitative design inspection rather than independent comparative performance.
+
+Consequential facts are limited to the source register. The course slides supply criteria, not contemporary population or performance evidence. Original research abstracts and primary methodology/field-study pages were inspected, not merely AI summaries. The 2026 METR update is checked to avoid presenting a historical slowdown as today's universal effect. No claim of student source verification, real-company adoption, global 10X gains or historical irreversibility is made.
+
+The student requested that AI draft the Self-Reflection from a student perspective. That text discusses the assignment's actual distinctions without inventing a classroom event or independent experiment. No personal reflection sentences or subsequent student review were supplied. This assistance is disclosed; rubric credit for the student's own reflection remains an evaluator judgment and is not certified by the package.
+
+Current Week 6 Assignment 4 instructions govern workflow. Old Spring 2026 Lab 11, May presentation and alternative-model instructions at the end of the lecture deck are not imported. The frozen Brightspace ZIP and original source files remain unchanged; prior cases are retained only as lineage and do not become current evidence by repetition.

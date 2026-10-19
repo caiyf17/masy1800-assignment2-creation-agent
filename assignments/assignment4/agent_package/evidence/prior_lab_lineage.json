@@ -1,0 +1,14 @@
+[
+  {
+    "source": "/Users/cyf/Documents/NYU/2026fall/1800/Team Workshop/TW4/Special_Dark_TW4_Innovation_Classification_Agent/agent_package/evidence/candidates/yufei_cai/cases/primary.json",
+    "retained_path": "evidence/prior_lab3/primary.json",
+    "sha256": "435ffe2e8dbca8881dbbbb414a59a89217e29961bc5e4a7485cac630f423636b",
+    "changes_for_lab4": "Retain fictional organization types and human release authority. Normalize a single proposed application across contexts. Replace innovation/disruption question with Promethean question, dated sources and long-range-vs-current horizon. Prior outputs are not reused as Lab4 findings."
+  },
+  {
+    "source": "/Users/cyf/Documents/NYU/2026fall/1800/Team Workshop/TW4/Special_Dark_TW4_Innovation_Classification_Agent/agent_package/evidence/candidates/yufei_cai/cases/contrast.json",
+    "retained_path": "evidence/prior_lab3/contrast.json",
+    "sha256": "bbb94c3c6b68dda079dfe933f086138546d06fd135f0b39d637c3851707f2385",
+    "changes_for_lab4": "Retain fictional organization types and human release authority. Normalize a single proposed application across contexts. Replace innovation/disruption question with Promethean question, dated sources and long-range-vs-current horizon. Prior outputs are not reused as Lab4 findings."
+  }
+]

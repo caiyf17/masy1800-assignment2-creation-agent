@@ -1,0 +1,3 @@
+# Promethean Classification Diagnostic Baseline 0.1
+This deliberately permissive comparison design names the six course criteria but treats strong performance and broad interest as enough to call a technology potentially Promethean. It lacks system and barrier gates, a full-workflow denominator requirement, a composite evidence rule, and an explicit boundary between significance and adoption. It is retained only to expose the overclaim this design permits, not as an independent model-performance experiment.
+Return the frozen JSON structure and distinguish technology, application and organization at a high level. Use the supplied case narrative and source packet. Do not modify the common schema.

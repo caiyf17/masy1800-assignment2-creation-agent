@@ -1,0 +1,27 @@
+[
+  {
+    "case": "primary",
+    "response": "agents/promethean_classification_agent/responses/primary_response.json",
+    "provenance": "Current assistant authored the example by applying the saved prompt; no independent API call, chart execution or student experiment."
+  },
+  {
+    "case": "contrast",
+    "response": "agents/promethean_classification_agent/responses/contrast_response.json",
+    "provenance": "Current assistant authored the example by applying the saved prompt; no independent API call, chart execution or student experiment."
+  },
+  {
+    "case": "hype_probe",
+    "response": "agents/promethean_classification_agent/responses/hype_probe_response.json",
+    "provenance": "Current assistant authored the example by applying the saved prompt; no independent API call, chart execution or student experiment."
+  },
+  {
+    "case": "component_probe",
+    "response": "agents/promethean_classification_agent/responses/component_probe_response.json",
+    "provenance": "Current assistant authored the example by applying the saved prompt; no independent API call, chart execution or student experiment."
+  },
+  {
+    "case": "posture_probe",
+    "response": "agents/promethean_classification_agent/responses/posture_probe_response.json",
+    "provenance": "Current assistant authored the example by applying the saved prompt; no independent API call, chart execution or student experiment."
+  }
+]

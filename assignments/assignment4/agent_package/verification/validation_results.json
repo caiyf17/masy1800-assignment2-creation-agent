@@ -1,0 +1,297 @@
+{
+  "passed": 58,
+  "failed": 0,
+  "checks": [
+    {
+      "check": "seven frozen files intact",
+      "passed": true,
+      "detail": "FROZEN CORE INTACT"
+    },
+    {
+      "check": "component_probe input schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "component_probe full output schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "component_probe instructor validator",
+      "passed": true,
+      "detail": "VALIDATION PASSED"
+    },
+    {
+      "check": "component_probe current metadata",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component_probe analytical question",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component_probe prompt case and frozen instructions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component_probe evidence IDs and dates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "contrast input schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "contrast full output schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "contrast instructor validator",
+      "passed": true,
+      "detail": "VALIDATION PASSED"
+    },
+    {
+      "check": "contrast current metadata",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "contrast analytical question",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "contrast prompt case and frozen instructions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "contrast evidence IDs and dates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "hype_probe input schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "hype_probe full output schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "hype_probe instructor validator",
+      "passed": true,
+      "detail": "VALIDATION PASSED"
+    },
+    {
+      "check": "hype_probe current metadata",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "hype_probe analytical question",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "hype_probe prompt case and frozen instructions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "hype_probe evidence IDs and dates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "posture_probe input schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "posture_probe full output schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "posture_probe instructor validator",
+      "passed": true,
+      "detail": "VALIDATION PASSED"
+    },
+    {
+      "check": "posture_probe current metadata",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "posture_probe analytical question",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "posture_probe prompt case and frozen instructions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "posture_probe evidence IDs and dates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "primary input schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "primary full output schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "primary instructor validator",
+      "passed": true,
+      "detail": "VALIDATION PASSED"
+    },
+    {
+      "check": "primary current metadata",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "primary analytical question",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "primary prompt case and frozen instructions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "primary evidence IDs and dates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "matched context contrast holds shared fields fixed",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "posture probe changes one field",
+      "passed": true,
+      "detail": "['adoption_posture']"
+    },
+    {
+      "check": "stable general finding across organization and posture",
+      "passed": true,
+      "detail": "Intentional reuse is a fixture, not statistical reliability."
+    },
+    {
+      "check": "context implications differ",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component gate stops scoring",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "hype challenge and denominator distinction",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "posture does not create permissions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "primary six criterion coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "contrast six criterion coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "hype_probe six criterion coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "posture_probe six criterion coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "support and contrary case retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "diagnostic baseline conforms structurally",
+      "passed": true,
+      "detail": "Structural validity does not endorse its deliberately unsupported claims."
+    },
+    {
+      "check": "unchanged hype input in diagnostic and final packets",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "baseline authorship disclosed",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "reflection authorship disclosed",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "negative control missing required",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "negative control extra key",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "negative control nested type",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prior case snapshots unchanged",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "dated source register and limits",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "available original course inputs unchanged",
+      "passed": true,
+      "detail": "7/7 sources available; OS metadata excluded."
+    }
+  ],
+  "scope": "Saved-artifact schema, source-integrity and explicit fixture checks; not model accuracy, verified student learning, human source review or a rubric score."
+}

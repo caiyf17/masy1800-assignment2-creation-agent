@@ -1,0 +1,46 @@
+{
+  "unit": "Integrated LLM/tool/observation/permission system for bounded digital work",
+  "gate_1": "System boundary defined; not all GenAI",
+  "gate_2": "A plausible reduction in direct expert effort, not demonstrated removal of a categorical human constraint",
+  "criteria": [
+    {
+      "id": "C1",
+      "criterion": "10X relevant performance",
+      "state": "Unknown",
+      "rationale": "No matched, quality-adjusted end-to-end ratio for the defined system; benchmark success and adjacent productivity cannot supply it."
+    },
+    {
+      "id": "C2",
+      "criterion": "Paradigm shift",
+      "state": "Partial",
+      "rationale": "Dynamic delegation is a plausible category change; continuity with prior automation and no demonstrated barrier dissolution remain."
+    },
+    {
+      "id": "C3",
+      "criterion": "Scalability",
+      "state": "Partial",
+      "rationale": "Digital delivery is technically replicable; broad distribution and actual access for this agentic system are unmeasured."
+    },
+    {
+      "id": "C4",
+      "criterion": "Democratization",
+      "state": "Unknown",
+      "rationale": "Lower skill barriers are plausible, but usable access and control distribution are not established."
+    },
+    {
+      "id": "C5",
+      "criterion": "Catalytic effect",
+      "state": "Partial",
+      "rationale": "Tool composition can enable other workflows; an observed agent-attributed cross-domain cascade is not supplied."
+    },
+    {
+      "id": "C6",
+      "criterion": "Broad irreversible impact",
+      "state": "Unknown",
+      "rationale": "Possible tiers include labor, governance and knowledge; durable observed change and suppression-test evidence are missing."
+    }
+  ],
+  "verdict": "Withhold a definitive general class; potentially Promethean remains an unconfirmed hypothesis, not the submitted affirmative verdict",
+  "confidence": "High in need for distinctions; low in long-range empirical classification",
+  "scoring": "No numeric sum or threshold; unknown is not contradicted"
+}

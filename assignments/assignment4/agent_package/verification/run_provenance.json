@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-19",
+  "environment": "Current ChatGPT/Codex conversation. The assistant applies prompt designs, authors and reviews JSON examples, and uses local Python for saving, prompt construction and artifact checks. No model API or operational chart tool is called.",
+  "tests": "Five saved final examples on primary, organization contrast, hype, component and posture-only inputs. They are same-assistant demonstrations, not independent or blinded runs.",
+  "baseline": "One intentionally permissive diagnostic design and overclaim response expose a concrete scope/denominator/adoption-boundary defect. They are not represented as an independently observed model failure.",
+  "student_input": "Student requested completion and explicitly requested AI-drafted first-person reflection rather than supplying personal reflection sentences.",
+  "limits": [
+    "No independent model benchmark, real-company pilot, measured ROI, human source review or team approval is claimed.",
+    "Technical validation checks contracts, hashes and transparent content fixtures, not analytical truth or a full rubric score."
+  ]
+}
