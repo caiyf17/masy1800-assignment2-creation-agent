@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-19",
+  "word": "Cai_Yufei_Assignment4_Promethean_Agent_Record.docx",
+  "word_sha256": "94cd54f1ddac969c43c113b1398a627dc4d9b839bc57dc772740dd4682327dcd",
+  "pages": 5,
+  "visual_review": "Every final page PNG inspected by the current assistant. A single overflow row was fixed; no render images or PDFs are delivered.",
+  "template_preservation": {
+    "parts_preserved_byte_for_byte": 15,
+    "parts_changed": [
+      "docProps/core.xml",
+      "word/document.xml",
+      "word/styles.xml",
+      "word/footer1.xml"
+    ],
+    "geometry": "Original single Letter portrait section and all margins unchanged",
+    "changes": "Student content, black border-free title/headings, final footer text and correct student metadata. Source purple table headers and table geometry retained."
+  },
+  "frozen_core_files_unchanged": 7,
+  "original_scaffold_files_present": 32,
+  "original_course_inputs_unchanged": 7,
+  "structural_and_fixture_checks": {
+    "passed": 58,
+    "failed": 0,
+    "limit": "Saved-artifact schema, source-integrity and explicit fixture checks; not model accuracy, verified student learning, human source review or a rubric score."
+  },
+  "draft_discipline": "One final authored Word. Instructor template/examples and the required diagnostic overclaim are reference/evidence, not redundant student drafts.",
+  "reflection": "AI-assisted; no student personal input or subsequent review attested. Full rubric score is not guaranteed."
+}

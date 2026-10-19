@@ -1,0 +1,15 @@
+{
+  "student": "Yufei Cai",
+  "repository": "https://github.com/caiyf17/masy1800-assignment2-creation-agent",
+  "branch": "assignment-4-promethean-agent",
+  "directory": "https://github.com/caiyf17/masy1800-assignment2-creation-agent/tree/assignment-4-promethean-agent/assignments/assignment4",
+  "implementation_commit": "66817a9b16af459cfee89646411c6fef6329ba1f",
+  "implementation_commit_url": "https://github.com/caiyf17/masy1800-assignment2-creation-agent/commit/66817a9b16af459cfee89646411c6fef6329ba1f",
+  "author": "Yufei Cai <caiyf17@users.noreply.github.com>",
+  "report": "Cai_Yufei_Assignment4_Promethean_Agent_Record.docx",
+  "report_sha256": "94cd54f1ddac969c43c113b1398a627dc4d9b839bc57dc772740dd4682327dcd",
+  "final_artifacts": "Report, manifests and this handoff accompany a following commit on the same branch. The branch history supplies the final commit SHA without a self-referential hash.",
+  "main_branch": "Not merged or modified by Lab 4 work. No pull request or team approval is required or claimed.",
+  "submission": "The ZIP contains the final Word and complete package. Follow the live Brightspace upload fields; local materials do not establish Word-only upload.",
+  "reflection_review": "AI-assisted first-person draft at student request. Read and confirm that it represents the student perspective before submission. No independent student input or review is attested."
+}
