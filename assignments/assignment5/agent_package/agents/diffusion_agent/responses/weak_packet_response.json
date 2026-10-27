@@ -1,0 +1,36 @@
+{
+  "agent": {
+    "name": "Emerging Technology Diffusion Agent",
+    "specialty": "Rogers diffusion evidence, application and peer scope, bounded organizational timing",
+    "version": "1.0"
+  },
+  "analytical_question": "How far have the defined technology and chart-review application diffused, what most accelerates or inhibits spread, and what timing implication follows for this organization without making the final adoption decision?",
+  "general_et_finding": "INSUFFICIENT CURRENT EVIDENCE. The closed packet supplies only an undated vendor assertion. Its geography, sample, denominator, technology definition and actual-use status are absent. Withhold current diffusion stage, Rogers-category allocation and chasm/forecast claims; do not import S1-S3 observations from other cases.",
+  "application_finding": "Exact chart-review peer diffusion is UNKNOWN. The five Rogers factors remain questions: relative advantage versus manual/rule-based review; compatibility with permissions and report ownership; complexity of connectors and exception review; trialability with authorized public/synthetic data; observability of repeated verified outcomes. These analytical questions supply no adoption rate.",
+  "organization_specific_finding": "For this hypothetical conservative firm, begin by obtaining dated comparable evidence and clarifying the use definition. Permission restrictions remain. A numerical or category-based timing inference cannot be supported from the vendor assertion.",
+  "evidence": [
+    {
+      "claim": "The supplied undated vendor assertion lacks the metadata needed to measure diffusion.",
+      "source_or_reference": "weak_packet additional_context",
+      "date_or_recency": "Undated assertion; probe evaluated 2026-10-26",
+      "evidence_type": "unverified case narrative",
+      "notes": "Not accepted as evidence of actual deployment. Rogers concepts are analytical questions, not new observations."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "The closed probe intentionally omits the current source packet. No claim of population non-adoption follows from missing evidence."
+  ],
+  "confidence_and_uncertainty": "High confidence that the closed packet is insufficient; low confidence in any current stage or penetration claim.",
+  "value_opportunity_implication": "A transferable learning advantage is possible if source-linked correctness and full review effort improve against manual and simpler deterministic checks. Ecosystem complements may reduce integration friction, but this mechanism is inference, not measured local ROI.",
+  "risk_governance_implication": "Popularity and social proof cannot authorize data access or publication. Maintain read-only boundaries and a named human report owner. Protocol availability does not certify a connector; unsuccessful trials or excessive review burden can justify stopping.",
+  "recommendation_management_implication": "Obtain a dated original source and comparable peer-use definition before using diffusion to change timing. Preserve existing permissions and route any independent practical trial decision to Adoption.",
+  "change_monitoring_triggers": [
+    "A proposed reporting owner obtains dated, comparable evidence of the exact workflow in similar firms, with population, geography, use definition and repeat-use status.",
+    "An authorized owner supplies quality-adjusted comparison results including review, correction, connector and exception costs; worsening errors or maintenance burden can delay or end work.",
+    "Data-environment permission or support capacity changes; reassess at the end of the four-week evidence window and within the twelve-month horizon, without a promised takeoff date."
+  ],
+  "abstention_or_more_information_needed": [
+    "Request a defined peer denominator and comparable repeated chart-review deployments before assigning penetration or a majority/chasm label.",
+    "Request a local comparator and approved environment before making claims about realized advantage or internal rollout timing."
+  ]
+}

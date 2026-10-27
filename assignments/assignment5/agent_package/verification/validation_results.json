@@ -1,0 +1,382 @@
+{
+  "passed": 75,
+  "failed": 0,
+  "scope": "Schema, frozen-core integrity and explicitly saved qualitative fixtures; not independent model accuracy, observed diffusion, business value or a rubric score.",
+  "checks": [
+    {
+      "check": "all seven frozen files unchanged",
+      "passed": true,
+      "detail": "FROZEN CORE INTACT"
+    },
+    {
+      "check": "all 32 original scaffold files retained byte-identically",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "context_contrast input schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "context_contrast full nested output schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "context_contrast supplied validator",
+      "passed": true,
+      "detail": "VALIDATION PASSED"
+    },
+    {
+      "check": "context_contrast metadata and question",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "context_contrast complete reproducible prompt",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "context_contrast five Rogers factors explicit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "hype_probe input schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "hype_probe full nested output schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "hype_probe supplied validator",
+      "passed": true,
+      "detail": "VALIDATION PASSED"
+    },
+    {
+      "check": "hype_probe metadata and question",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "hype_probe complete reproducible prompt",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "hype_probe five Rogers factors explicit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "missing_scope input schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "missing_scope full nested output schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "missing_scope supplied validator",
+      "passed": true,
+      "detail": "VALIDATION PASSED"
+    },
+    {
+      "check": "missing_scope metadata and question",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "missing_scope complete reproducible prompt",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "missing_scope five Rogers factors explicit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "posture_contrast input schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "posture_contrast full nested output schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "posture_contrast supplied validator",
+      "passed": true,
+      "detail": "VALIDATION PASSED"
+    },
+    {
+      "check": "posture_contrast metadata and question",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "posture_contrast complete reproducible prompt",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "posture_contrast five Rogers factors explicit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "primary input schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "primary full nested output schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "primary supplied validator",
+      "passed": true,
+      "detail": "VALIDATION PASSED"
+    },
+    {
+      "check": "primary metadata and question",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "primary complete reproducible prompt",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "primary five Rogers factors explicit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "weak_packet input schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "weak_packet full nested output schema",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "weak_packet supplied validator",
+      "passed": true,
+      "detail": "VALIDATION PASSED"
+    },
+    {
+      "check": "weak_packet metadata and question",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "weak_packet complete reproducible prompt",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "weak_packet five Rogers factors explicit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "posture contrast changes exactly one field",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "hype probe changes narrative only",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "context contrast keeps technology application and evidence fixed",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "same evidence means same general finding",
+      "passed": true,
+      "detail": "Invariant text deliberately reused; not independently sampled reliability."
+    },
+    {
+      "check": "posture changes timing sequence",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "conservative sequence names peer references",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "aggressive posture retains permission gate",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "material contrast changes contextual bottleneck",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "general result does not infer all firms",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "exact application peer stage withheld",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "hype does not authorize sensitive data",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "hype output remains structured",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "weak packet abstains",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "weak packet does not import current numbers",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "missing scope requests unit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "final adoption handed off",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "no fabricated numeric forecast",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "all five adopter categories covered",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "decision stages distinct from market stage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "actors and ecosystem roles covered",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "five-factor assessment covers both organizations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "weak diffusion claim is diagnosed",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "preserved draft fails timing test",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "revision did not change required case inputs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "cycle1 primary valid weak output",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "cycle1 primary prompt preserved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "cycle1 posture_contrast valid weak output",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "cycle1 posture_contrast prompt preserved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "draft provenance explicit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "dated bounded original sources",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source quotes remain short",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "same-assistant limitation explicit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "reflection grounded in user input",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "available original materials unchanged",
+      "passed": true,
+      "detail": "9/9 available on this machine."
+    },
+    {
+      "check": "validator negative control missing field",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "validator negative control extra field",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "validator negative control nested type",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

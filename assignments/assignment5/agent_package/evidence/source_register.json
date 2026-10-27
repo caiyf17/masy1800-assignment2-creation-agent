@@ -1,0 +1,49 @@
+[
+  {
+    "id": "S0",
+    "title": "Course Module 6 The Diffusion of Emerging Technologies",
+    "kind": "course framework",
+    "date": "FA25 file supplied for this course; inspected 2026-10-26",
+    "location": "/Users/cyf/Documents/NYU/2026fall/1800/Slides/ET Module 6 - The Diffusion of Emerging Technologies FA25.pptx",
+    "locator": "Slides 26-29, 32-35, 37, 40-54, 58-63",
+    "claim": "Rogers five perceived attributes, adopter categories, decision stages, channels and chasm heuristic.",
+    "limit": "Conceptual lens, not observed agentic deployment. The 16% and messaging heuristics do not prove an empirical market threshold or irreversible diffusion.",
+    "checked_on": "2026-10-26"
+  },
+  {
+    "id": "S1",
+    "title": "The state of AI in 2026 On the road to ROI",
+    "kind": "original publisher survey",
+    "date": "Published 2026-08-25; fieldwork 2026-05-04 to 2026-06-08",
+    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+    "locator": "Key takeaways; Use of AI is deepening; About the research",
+    "claim": "40% of respondents at organizations with revenue above USD1 billion report scaling agents in one or more functions; 22% at smaller organizations. Survey: 1,719 participants, 97 nations, national GDP response weighting.",
+    "limit": "Respondent self-report, not a probability estimate for every firm. One or more functions is not enterprise-wide scaling; neither is chart-review use or a finance-peer diffusion denominator. Fieldwork is not October 2026 deployment. No S-curve is fitted.",
+    "checked_on": "2026-10-26",
+    "short_source_excerpt": "The online survey was in the field from May 4 to June 8, 2026"
+  },
+  {
+    "id": "S2",
+    "title": "Large Firms With at Least 20 Employees Biggest AI Users",
+    "kind": "original statistical agency report",
+    "date": "Published 2026-05-26; comparison period 2025-12-14 to 2026-05-03",
+    "url": "https://www.census.gov/library/stories/2026/05/ai-use-businesses.html",
+    "locator": "BTOS question wording and AI Trends Across Sectors",
+    "claim": "For the period ending May 3, 2026, any-AI use was 33.9% in Finance and Insurance and 19.8% nationally; the core question asks about use in the past two weeks in any business function.",
+    "limit": "US employer-business any-AI measure, not integrated agentic systems or chart-review deployment. The revised November 2025 wording prevents a naive continuous comparison with earlier production-only questions. Expectations are not observed future use. This is a dated comparison, not the latest October release.",
+    "checked_on": "2026-10-26",
+    "short_source_excerpt": "Whether the business used AI in the past two weeks."
+  },
+  {
+    "id": "S3",
+    "title": "MCP joins the Agentic AI Foundation",
+    "kind": "original maintainer announcement",
+    "date": "2025-12-09",
+    "url": "https://blog.modelcontextprotocol.io/posts/2025-12-09-mcp-joins-agentic-ai-foundation/",
+    "locator": "The Agentic AI Foundation; maintainer structure",
+    "claim": "MCP became a founding project of the Linux Foundation Agentic AI Foundation, providing a concrete interoperability and governance ecosystem signal.",
+    "limit": "Protocol availability and governance do not establish market penetration, safe integration, actual local use or chart-review effectiveness. Download/server counts are deliberately not used as adoption denominators.",
+    "checked_on": "2026-10-26",
+    "short_source_excerpt": "MCP will be a founding project of the newly created foundation."
+  }
+]

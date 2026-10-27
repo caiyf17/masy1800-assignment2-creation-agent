@@ -1,0 +1,32 @@
+{
+  "relative_advantage": {
+    "basis": "case inference",
+    "finance": "Potential reconciliation/review benefit; no measured full-cost superiority over manual and deterministic baselines.",
+    "studio": "Potential faster drafts, equally unmeasured; simpler checks may suffice.",
+    "evidence_needed": "Matched task quality and total human review/correction plus operating cost."
+  },
+  "compatibility": {
+    "basis": "stated case premises plus inference",
+    "finance": "Binding now: sensitive tables with no approved external-model environment; BI access and report ownership must align.",
+    "studio": "Public-data sandbox and human editorial release provide a better fit.",
+    "evidence_needed": "Authorized data boundary, access owner and workflow integration."
+  },
+  "complexity": {
+    "basis": "inference about the proposed system, not a field estimate",
+    "finance": "Connector, evaluation and exception maintenance remain even if natural language is easy.",
+    "studio": "Limited engineering/evaluation capacity is the leading remaining inhibitor.",
+    "evidence_needed": "Support ownership, exception burden and reproducibility."
+  },
+  "trialability": {
+    "basis": "case premise and proposed learning path",
+    "finance": "Only public/synthetic reversible comparisons before permission; posture changes learning timing, not permitted data.",
+    "studio": "Approved public-data sandbox makes bounded comparison easier.",
+    "evidence_needed": "A reversible protocol and named reviewer; no trial has been run in a firm."
+  },
+  "observability": {
+    "basis": "inference; no local outcomes observed",
+    "finance": "Comparable finance-peer references and repeated source-linked results needed; demonstrations alone are weak.",
+    "studio": "Peer/editor-visible reviewed outcomes could communicate value; same need for repeat use and full costs.",
+    "evidence_needed": "Dated comparable reference use, retained errors and continuing-use evidence."
+  }
+}

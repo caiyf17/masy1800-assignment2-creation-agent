@@ -1,0 +1,2 @@
+# Diffusion specialist
+Use the supplied build_prompt.py to assemble the frozen core, specialist instructions, complete case evidence and output contract. Current responses are saved qualitative examples authored in the current assistant workflow, not an autonomous chart-review tool or independent benchmark. See records/test_and_revision_log.md and verification/run_provenance.json before interpreting the tests.

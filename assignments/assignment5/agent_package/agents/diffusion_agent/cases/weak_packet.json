@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Agentic AI systems: an integrated language model, model-selected tools, observations, permissions and human stopping authority for bounded multi-step digital work. This is the system under analysis, not a single model, chart plugin or all of generative AI.",
+  "intended_application": "A proposed human-supervised chart-review workflow: compare business charts and claims with approved source tables using read-only tools, then draft corrections for a named human reviewer. No autonomous publication or financial/customer decisions.",
+  "business_need": "Investigate whether review effort can be reduced while maintaining source traceability and correct interpretation.",
+  "management_question": "How far have the defined technology and chart-review application diffused, what most accelerates or inhibits spread, and what timing implication follows for this organization without making the final adoption decision?",
+  "time_horizon": "Four weeks for authorized evidence gathering; reassess timing over twelve months. No claimed deployment deadline or market takeoff forecast.",
+  "additional_context": "CLOSED WEAK-EVIDENCE PROBE as of 2026-10-26. The current evidence packet is intentionally withheld for this test. Sole diffusion assertion: an undated vendor slide says almost everyone is deploying agents, with no geography, sampling, use definition or denominator. No new external lookup is permitted in this closed probe. Apply Rogers concepts but do not import omitted observations from other cases.",
+  "organization": "Hypothetical mid-sized United States financial-services firm",
+  "industry_sector": "Regulated financial services and internal management reporting.",
+  "users_stakeholders": "Business analysts, analytics managers, model-risk staff, compliance reviewers, information-security staff, executives who consume reports, and customers indirectly affected by management decisions.",
+  "adoption_posture": "Conservative and risk-averse. The firm permits bounded pilots but requires evidence of reliability, access control, auditability, and named human decision ownership before broader adoption.",
+  "capabilities_constraints": "Established BI tables and experienced analysts. Sensitive data and legacy systems; no approved external model environment. Only public or synthetic material may be used before authorization. Named report ownership and human sign-off are required. No agent-specific validation dataset is supplied.",
+  "risk_consequence_context": "A fabricated claim, incorrect denominator, privacy breach, or misleading visual could affect executive decisions, regulatory obligations, and reputation. Drafts are reversible, but distribution of an incorrect report can have material consequences."
+}
