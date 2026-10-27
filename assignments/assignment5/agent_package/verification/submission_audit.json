@@ -1,0 +1,36 @@
+{
+  "student": "Yufei Cai",
+  "assignment": 5,
+  "version": "1.0",
+  "date": "2026-10-26",
+  "report": "Cai_Yufei_Assignment5_Diffusion_Agent_Record.docx",
+  "report_sha256": "a18632cbe258ec663c8f9647410bee619d928d52945ee8ad8438b1c36b64e847",
+  "pages": 5,
+  "visual_review": "All five final page PNGs inspected after template comparison; no clipped text, split rows or overlap. QA files remain outside the output folder.",
+  "template_fidelity": {
+    "source": "/Users/cyf/Documents/NYU/2026fall/1800/Lab/Lab5/Lab 5 -  SubAgent 4 Diffusion attached files Oct 26, 2026 812 PM/Emerging_Technologies_Agent_Record_Template.docx",
+    "output": "/Users/cyf/Documents/NYU/2026fall/1800/Lab/Lab5/Cai_Yufei_Lab5_Diffusion_Agent/Cai_Yufei_Assignment5_Diffusion_Agent_Record.docx",
+    "changed_parts": [
+      "docProps/core.xml",
+      "word/document.xml",
+      "word/_rels/document.xml.rels",
+      "word/styles.xml",
+      "word/footer1.xml"
+    ],
+    "preserved_parts": 14,
+    "native_hyperlinks": 4,
+    "geometry_preserved": true
+  },
+  "all_32_original_scaffold_files_unchanged": true,
+  "seven_frozen_files_unchanged": true,
+  "original_input_files_unchanged": 9,
+  "cases": 6,
+  "saved_draft_weakness": "Two complete controlled draft outputs, two prompt packets, diagnosis and input hashes are preserved; no independent model-failure rate claimed.",
+  "validation": {
+    "passed": 75,
+    "failed": 0,
+    "scope": "Schema, frozen-core integrity and explicitly saved qualitative fixtures; not independent model accuracy, observed diffusion, business value or a rubric score."
+  },
+  "reflection": "Student-selected Chinese takeaway developed into English with AI editing.",
+  "output_discipline": "One authored final Word and one complete ZIP; original instructor references and required test history are not alternate student report drafts."
+}

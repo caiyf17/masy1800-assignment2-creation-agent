@@ -1,0 +1,15 @@
+{
+  "repository": "https://github.com/caiyf17/masy1800-assignment2-creation-agent",
+  "branch": "assignment-5-diffusion-agent",
+  "path": "assignments/assignment5",
+  "branch_url": "https://github.com/caiyf17/masy1800-assignment2-creation-agent/tree/assignment-5-diffusion-agent/assignments/assignment5",
+  "implementation_commit": "2b91dd40873190aadc39df176407f6a2d6c612df",
+  "implementation_commit_url": "https://github.com/caiyf17/masy1800-assignment2-creation-agent/commit/2b91dd40873190aadc39df176407f6a2d6c612df",
+  "version": "1.0",
+  "report": "Cai_Yufei_Assignment5_Diffusion_Agent_Record.docx",
+  "report_sha256": "a18632cbe258ec663c8f9647410bee619d928d52945ee8ad8438b1c36b64e847",
+  "author": "Yufei Cai <caiyf17@users.noreply.github.com>",
+  "delivery_commit": "Later commits on this branch contain the final report, audit, checksums and ZIP; the final branch history identifies their exact hash.",
+  "automatic_merge": false,
+  "brightspace_submission": false
+}
