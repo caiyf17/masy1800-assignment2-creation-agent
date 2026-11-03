@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "date": "2026-11-02",
+  "report_sha256": "3ea91436a9830d25ae3af21a2dacd334273dfcab6e6105d7a8110e48c18af5d1",
+  "pages": 5,
+  "all_final_pages_visually_reviewed": true,
+  "template_sha256": "5275ea28e66a27d5ddfae3c0541ce7cf7711655a450da7eecb4d36b0ced7e802",
+  "template_parts_preserved": 13,
+  "template_parts_total": 19,
+  "edited_parts": [
+    "docProps/core.xml",
+    "word/document.xml",
+    "word/_rels/document.xml.rels",
+    "word/header1.xml",
+    "word/styles.xml",
+    "word/footer1.xml"
+  ],
+  "geometry_and_original_relationships_preserved": true,
+  "comments_or_tracked_changes": false,
+  "no_empty_report_cells_or_placeholders": true,
+  "reflection_grounded_in_user_input": true,
+  "original_input_files_unchanged": 10,
+  "scaffold_original_files_unchanged": 32,
+  "frozen_files_unchanged": 7,
+  "final_cases": 8,
+  "local_checks": "150/150",
+  "limitations": "Same-assistant qualitative examples; no independent model benchmark, real company trial, financial ROI or real permission is claimed."
+}
