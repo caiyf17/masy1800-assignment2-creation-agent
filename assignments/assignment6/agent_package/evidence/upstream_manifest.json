@@ -1,0 +1,20 @@
+[
+  {
+    "original_path": "/Users/cyf/Documents/NYU/2026fall/1800/Lab/Lab5/Cai_Yufei_Lab5_Diffusion_Agent/agent_package/agents/diffusion_agent/responses/primary_response.json",
+    "snapshot": "evidence/upstream/lab5_primary_response.json",
+    "sha256": "e949f5caf5c7c0cfdc86edf9f11c25ef4aa90325d7f72e49117ba36d824bac69",
+    "use": "Prior analytical input for continuity, not independent external corroboration or authorization for the new case."
+  },
+  {
+    "original_path": "/Users/cyf/Documents/NYU/2026fall/1800/Team Workshop/TW6/Special_Dark_TW6_Diffusion_Agent/agent_package/agents/diffusion_agent/responses/primary_response.json",
+    "snapshot": "evidence/upstream/tw6_primary_response.json",
+    "sha256": "c7fd071c215fbf286f57b8210ca45f9ebc9f3ac739188f19d7384aff9c47e067",
+    "use": "Prior analytical input for continuity, not independent external corroboration or authorization for the new case."
+  },
+  {
+    "original_path": "/Users/cyf/Documents/NYU/2026fall/1800/Team Workshop/TW6/Special_Dark_TW6_Diffusion_Agent/agent_package/records/team_release.json",
+    "snapshot": "evidence/upstream/tw6_team_release.json",
+    "sha256": "97d79e1f6fb4dc78726ef860324e4efcda767121a1d80046ab6317325d4d31bd",
+    "use": "Prior analytical input for continuity, not independent external corroboration or authorization for the new case."
+  }
+]

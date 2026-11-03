@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-02",
+  "runtime": "Current ChatGPT/Codex assistant session; no independent model API call",
+  "method": "The assistant authored and reviewed qualitative examples. Local scripts serialize text, build prompts and validate saved artifacts. Expected actions are declared analytical fixtures, not a benchmark oracle.",
+  "limits": [
+    "No independent evaluator or isolated repeats",
+    "No chart tool, company trial, regulatory certification or actual permission obtained",
+    "H1-H3 are fictional branch controls; K0 is an explicit new Lab6 teaching premise",
+    "Observed prior outputs, controlled negative examples and actual working-draft leakage revision are separately identified"
+  ],
+  "instructions_sha256": "1470e661f5b5f5e83826818029d044d80a3c933fe1b3d614811c84c108ff1fb9",
+  "metadata_sha256": "5fbefa76a4629c773452daf0e89bc2a5cbbe7393a8a74cb04a8c7b03ed9f18f5",
+  "cases": [
+    {
+      "case": "hype_probe",
+      "case_sha256": "d1cc6f32154863d3911d57e52ba76234cc8a0a1ca7c3745dc849db1f8f06c761",
+      "prompt_sha256": "d5c1e76b8773d57105f202d780498f84a9daa96ed8d8ec27dfd817f7166020e0",
+      "response_sha256": "3c0acf77a4e93a64a0e0725b2d6115bce7016d16a3d6232a4ed248f44752ffd6",
+      "action": "MONITOR"
+    },
+    {
+      "case": "inferior_alternative",
+      "case_sha256": "aa1109fed086028780fb1bb64b660d4aab91abe4886e50883de5b2368543d9b3",
+      "prompt_sha256": "eacdfd699b67ff93112e2f3613c34ccd3a94f15af3d648bd6364c58f8c221f05",
+      "response_sha256": "1b2fd5052654280229e301ff62c186bf02b9b06ab2d7b6d30248c6cfde4117ea",
+      "action": "REJECT_FOR_PRESENT"
+    },
+    {
+      "case": "missing_application",
+      "case_sha256": "0b4bb2f8e379cae759f0f09f680d970fa0ac35c4a97f82218eeb1d249667251a",
+      "prompt_sha256": "9f8b01c6537d0026dc503559bc46671cd5876c31fda2efdfa7ca9289bc3142e8",
+      "response_sha256": "16853ba54e2b2fd7d613ab7b242eea87dab9271cc21c69063a8dce6cde54903a",
+      "action": "DEFER"
+    },
+    {
+      "case": "permission_blocked",
+      "case_sha256": "da6300cdf2ba00f5626a57d288f745a6c96e0faf937337d253b8ec83114a32af",
+      "prompt_sha256": "cd1f3752fbd8409f69f0cf4769f64d60a5fe3dbe24a49884da00542ca7cff0c8",
+      "response_sha256": "124d9ce7e463eeb587bd8332017ea64cdc9f5a251e467eed7eaac947b223d8fd",
+      "action": "DEFER"
+    },
+    {
+      "case": "posture_contrast",
+      "case_sha256": "f3f17700ca131b7dbabd06872c33f2cf7ac10c9afaa4733e8476984cbbc61eb8",
+      "prompt_sha256": "7f368a545d20d6133b58481f59d6f82e82e16b9b7509a1e52c6859ff73014050",
+      "response_sha256": "2afa9eeb3dfdfbf2e25472e0fd3ef28b8e9046f79cb3db50ac0e2b2ea1bc2935",
+      "action": "PROOF_OF_CONCEPT"
+    },
+    {
+      "case": "primary",
+      "case_sha256": "598456d2b802a76fcefd50954be2908688967391d41f6da0942deb94e516674c",
+      "prompt_sha256": "3054bb788577796aae0cbc83e1cbb4d20b481ac8ce8fac664ba564241a8855c5",
+      "response_sha256": "24af46628e158c1e1f0f4d7e5beac4da2cab438696c58eef6e5cf8a3e6df60a9",
+      "action": "MONITOR"
+    },
+    {
+      "case": "qualified_experiment",
+      "case_sha256": "6ecedd96fea49af9fea56b3e6b6ecc133bc02ae8c3efdc156eb4ff7e373af719",
+      "prompt_sha256": "06432d7ae2feadc5f607dc563cf2ab2adb0d32863f0e7057f13e52d06e069bb3",
+      "response_sha256": "3e777954f53d930257a1f2c50761f4934f0ba97d5ac3da6a6832cc6e6e8a7b40",
+      "action": "BOUNDED_EXPERIMENT"
+    },
+    {
+      "case": "staged_adoption",
+      "case_sha256": "d203c0beeadb7eb9aee171382ccb7a95cb56216ecb86aba80137b0996eaaa7fe",
+      "prompt_sha256": "6cf0f7eead61c04cd9955632c275cf821ec668f51987ef803a885735b8d2f790",
+      "response_sha256": "c0e74d5f41539e61579db6288186b8b98039e1c8bb7cdd1f8460a8918f1c456f",
+      "action": "ADOPT"
+    }
+  ],
+  "preserved_weaknesses": [
+    {
+      "path": "evidence/preserved_weakness/posture_contrast_response_v0.1.json",
+      "sha256": "4047c1104ce1d764d1ee098db6e8194f6de8873221e54463c813acc67f8a1bf0"
+    },
+    {
+      "path": "evidence/preserved_weakness/primary_response_v0.1.json",
+      "sha256": "4047c1104ce1d764d1ee098db6e8194f6de8873221e54463c813acc67f8a1bf0"
+    },
+    {
+      "path": "evidence/preserved_weakness/staged_adoption_before_scope_revision.json",
+      "sha256": "9ab1b128c4162b053091a06accca623bdbb9901ee7d0b478d52fd0699c869eda"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "C1",
+    "title": "Module 7 Classification and Adoption Strategies",
+    "url": "course://Slides/ET 7 Classification and Adoption Strategie FA26.pptx",
+    "date": "FA26 supplied file, checked 2026-11-02",
+    "location": "Slides 11-14, 19-23, 29, 31 and 45",
+    "claim": "Separate general, application and organization readings; distinguish bleeding/leading/commodity/trailing edge; choose adopt, experiment, proof of concept, monitor, defer or reject.",
+    "limit": "Age bands and the chasm are teaching heuristics. They are not a measured market stage or permission to skip local value, risk and readiness checks.",
+    "type": "Course analytical framework"
+  },
+  {
+    "id": "S1",
+    "title": "The state of AI in 2026 On the road to ROI",
+    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+    "date": "Published 2026-08-25; fieldwork 2026-05-04 to 2026-06-08; checked 2026-11-02",
+    "location": "Key takeaways, scaling agents in one or more functions and About the research",
+    "claim": "Agent scaling reported by 40% of the above-USD1bn revenue subgroup and 22% of the smaller subgroup; 1,719 participants in 97 nations, country-GDP weighting.",
+    "limit": "Respondent self-report across functions, not all firms, chart review or a comparable finance-peer denominator. Case revenue unknown. This supplies no local ROI or November field observation.",
+    "type": "Original survey publication"
+  },
+  {
+    "id": "S2",
+    "title": "NIST AI Risk Management Framework AI RMF 1.0",
+    "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+    "date": "January 2023 version; checked 2026-11-02",
+    "location": "Printed pp. 6-7 and MEASURE 2.1/2.5; MANAGE 4",
+    "claim": "Use an appropriate baseline, context-specific risk tolerance, documented evaluation and continuing risk management.",
+    "limit": "Voluntary, non-sector-specific guidance. It prescribes neither this case threshold nor permission, regulatory compliance or an adoption decision.",
+    "type": "Primary risk-management framework"
+  },
+  {
+    "id": "S3",
+    "title": "NIST AI RMF Generative Artificial Intelligence Profile",
+    "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+    "date": "July 2024 version; checked 2026-11-02",
+    "location": "Confabulation; MS-2.3-002/003, MS-2.5-001/003, MG-4.1 and MG-4.3",
+    "claim": "Check capability claims empirically, document limits and source provenance, and plan monitoring and incident response.",
+    "limit": "Suggested actions, not certification. Narrow or anecdotal tests cannot establish general reliability. This report does not rely on the historical executive order as a current legal requirement.",
+    "type": "Primary voluntary GenAI profile"
+  }
+]

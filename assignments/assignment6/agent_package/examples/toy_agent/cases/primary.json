@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Edge AI accelerators",
+  "intended_application": "On-site visual quality inspection on one manufacturing line",
+  "organization": "Mid-size specialty manufacturer",
+  "industry_sector": "Manufacturing",
+  "business_need": "Reduce inspection delay and rework",
+  "users_stakeholders": "Quality engineers, operators, plant manager",
+  "adoption_posture": "Moderate / fast follower",
+  "capabilities_constraints": "One plant; limited ML operations staff; existing industrial cameras",
+  "risk_consequence_context": "Moderate operational risk; human quality review remains available",
+  "management_question": "Should the firm run a bounded edge-AI inspection experiment?",
+  "time_horizon": "Next 6 months",
+  "additional_context": "Toy example used only to demonstrate scaffold mechanics."
+}

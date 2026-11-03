@@ -1,0 +1,9 @@
+{
+  "status": "Hypothetical H3 effort proxy, not actual performance or monetary ROI",
+  "reviews_per_month": 100,
+  "manual_minutes": 3000,
+  "deterministic_minutes": 2000,
+  "agent_minutes": 2500,
+  "separate_past_sunk_minutes_excluded": 300,
+  "agent_disadvantage_vs_best_minutes": 500
+}

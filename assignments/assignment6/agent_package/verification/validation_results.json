@@ -1,0 +1,608 @@
+{
+  "passed": 150,
+  "total": 150,
+  "all_passed": true,
+  "scope": "Byte integrity, frozen contract keywords, reproducible prompt construction, declared action/invariance and arithmetic checks; not measured model reliability",
+  "checks": [
+    {
+      "check": "frozen core/common_instructions.md",
+      "passed": true
+    },
+    {
+      "check": "frozen core/input_schema.json",
+      "passed": true
+    },
+    {
+      "check": "frozen core/output_schema.json",
+      "passed": true
+    },
+    {
+      "check": "frozen tools/build_prompt.py",
+      "passed": true
+    },
+    {
+      "check": "frozen tools/check_frozen_core.py",
+      "passed": true
+    },
+    {
+      "check": "frozen tools/new_agent.py",
+      "passed": true
+    },
+    {
+      "check": "frozen tools/validate_response.py",
+      "passed": true
+    },
+    {
+      "check": "original scaffold .gitignore",
+      "passed": true
+    },
+    {
+      "check": "original scaffold CHATGPT_CODEX_WORKFLOW.md",
+      "passed": true
+    },
+    {
+      "check": "original scaffold FROZEN_CORE_SHA256.txt",
+      "passed": true
+    },
+    {
+      "check": "original scaffold GITHUB_WORKING_COPY.md",
+      "passed": true
+    },
+    {
+      "check": "original scaffold PACKAGE_SHA256.txt",
+      "passed": true
+    },
+    {
+      "check": "original scaffold README.md",
+      "passed": true
+    },
+    {
+      "check": "original scaffold START_HERE.md",
+      "passed": true
+    },
+    {
+      "check": "original scaffold VERSION.txt",
+      "passed": true
+    },
+    {
+      "check": "original scaffold agents/_template/README.md",
+      "passed": true
+    },
+    {
+      "check": "original scaffold agents/_template/agent_metadata.json",
+      "passed": true
+    },
+    {
+      "check": "original scaffold agents/_template/cases/contrast_1.json",
+      "passed": true
+    },
+    {
+      "check": "original scaffold agents/_template/cases/contrast_2.json",
+      "passed": true
+    },
+    {
+      "check": "original scaffold agents/_template/cases/primary.json",
+      "passed": true
+    },
+    {
+      "check": "original scaffold agents/_template/records/agent_record.md",
+      "passed": true
+    },
+    {
+      "check": "original scaffold agents/_template/responses/.gitkeep",
+      "passed": true
+    },
+    {
+      "check": "original scaffold agents/_template/specialist_instructions.md",
+      "passed": true
+    },
+    {
+      "check": "original scaffold core/common_instructions.md",
+      "passed": true
+    },
+    {
+      "check": "original scaffold core/input_schema.json",
+      "passed": true
+    },
+    {
+      "check": "original scaffold core/output_schema.json",
+      "passed": true
+    },
+    {
+      "check": "original scaffold docs/Emerging_Technologies_Agent_Record_Template.docx",
+      "passed": true
+    },
+    {
+      "check": "original scaffold docs/Emerging_Technologies_Common_Agent_Scaffold_Student_Guide_v2.docx",
+      "passed": true
+    },
+    {
+      "check": "original scaffold examples/toy_agent/agent_metadata.json",
+      "passed": true
+    },
+    {
+      "check": "original scaffold examples/toy_agent/cases/primary.json",
+      "passed": true
+    },
+    {
+      "check": "original scaffold examples/toy_agent/responses/primary_response.json",
+      "passed": true
+    },
+    {
+      "check": "original scaffold examples/toy_agent/specialist_instructions.md",
+      "passed": true
+    },
+    {
+      "check": "original scaffold requirements.txt",
+      "passed": true
+    },
+    {
+      "check": "original scaffold tools/build_prompt.py",
+      "passed": true
+    },
+    {
+      "check": "original scaffold tools/check_frozen_core.py",
+      "passed": true
+    },
+    {
+      "check": "original scaffold tools/new_agent.py",
+      "passed": true
+    },
+    {
+      "check": "original scaffold tools/validate_response.py",
+      "passed": true
+    },
+    {
+      "check": "original scaffold work/.gitkeep",
+      "passed": true
+    },
+    {
+      "check": "original scaffold work/toy_agent_primary_prompt.txt",
+      "passed": true
+    },
+    {
+      "check": "upstream bytes evidence/upstream/lab5_primary_response.json",
+      "passed": true
+    },
+    {
+      "check": "upstream bytes evidence/upstream/tw6_primary_response.json",
+      "passed": true
+    },
+    {
+      "check": "upstream bytes evidence/upstream/tw6_team_release.json",
+      "passed": true
+    },
+    {
+      "check": "hype_probe intake contract",
+      "passed": true
+    },
+    {
+      "check": "hype_probe strict output contract",
+      "passed": true
+    },
+    {
+      "check": "hype_probe supplied response validator",
+      "passed": true
+    },
+    {
+      "check": "hype_probe current agent metadata",
+      "passed": true
+    },
+    {
+      "check": "hype_probe declared primary action",
+      "passed": true
+    },
+    {
+      "check": "hype_probe organizational specialist boundary",
+      "passed": true
+    },
+    {
+      "check": "hype_probe exact prompt reconstruction",
+      "passed": true
+    },
+    {
+      "check": "hype_probe general evidence invariant",
+      "passed": true
+    },
+    {
+      "check": "hype_probe source dates and limits",
+      "passed": true
+    },
+    {
+      "check": "inferior_alternative intake contract",
+      "passed": true
+    },
+    {
+      "check": "inferior_alternative strict output contract",
+      "passed": true
+    },
+    {
+      "check": "inferior_alternative supplied response validator",
+      "passed": true
+    },
+    {
+      "check": "inferior_alternative current agent metadata",
+      "passed": true
+    },
+    {
+      "check": "inferior_alternative declared primary action",
+      "passed": true
+    },
+    {
+      "check": "inferior_alternative organizational specialist boundary",
+      "passed": true
+    },
+    {
+      "check": "inferior_alternative exact prompt reconstruction",
+      "passed": true
+    },
+    {
+      "check": "inferior_alternative general evidence invariant",
+      "passed": true
+    },
+    {
+      "check": "inferior_alternative source dates and limits",
+      "passed": true
+    },
+    {
+      "check": "missing_application intake contract",
+      "passed": true
+    },
+    {
+      "check": "missing_application strict output contract",
+      "passed": true
+    },
+    {
+      "check": "missing_application supplied response validator",
+      "passed": true
+    },
+    {
+      "check": "missing_application current agent metadata",
+      "passed": true
+    },
+    {
+      "check": "missing_application declared primary action",
+      "passed": true
+    },
+    {
+      "check": "missing_application organizational specialist boundary",
+      "passed": true
+    },
+    {
+      "check": "missing_application exact prompt reconstruction",
+      "passed": true
+    },
+    {
+      "check": "missing_application general evidence invariant",
+      "passed": true
+    },
+    {
+      "check": "missing_application source dates and limits",
+      "passed": true
+    },
+    {
+      "check": "permission_blocked intake contract",
+      "passed": true
+    },
+    {
+      "check": "permission_blocked strict output contract",
+      "passed": true
+    },
+    {
+      "check": "permission_blocked supplied response validator",
+      "passed": true
+    },
+    {
+      "check": "permission_blocked current agent metadata",
+      "passed": true
+    },
+    {
+      "check": "permission_blocked declared primary action",
+      "passed": true
+    },
+    {
+      "check": "permission_blocked organizational specialist boundary",
+      "passed": true
+    },
+    {
+      "check": "permission_blocked exact prompt reconstruction",
+      "passed": true
+    },
+    {
+      "check": "permission_blocked general evidence invariant",
+      "passed": true
+    },
+    {
+      "check": "permission_blocked source dates and limits",
+      "passed": true
+    },
+    {
+      "check": "posture_contrast intake contract",
+      "passed": true
+    },
+    {
+      "check": "posture_contrast strict output contract",
+      "passed": true
+    },
+    {
+      "check": "posture_contrast supplied response validator",
+      "passed": true
+    },
+    {
+      "check": "posture_contrast current agent metadata",
+      "passed": true
+    },
+    {
+      "check": "posture_contrast declared primary action",
+      "passed": true
+    },
+    {
+      "check": "posture_contrast organizational specialist boundary",
+      "passed": true
+    },
+    {
+      "check": "posture_contrast exact prompt reconstruction",
+      "passed": true
+    },
+    {
+      "check": "posture_contrast general evidence invariant",
+      "passed": true
+    },
+    {
+      "check": "posture_contrast source dates and limits",
+      "passed": true
+    },
+    {
+      "check": "primary intake contract",
+      "passed": true
+    },
+    {
+      "check": "primary strict output contract",
+      "passed": true
+    },
+    {
+      "check": "primary supplied response validator",
+      "passed": true
+    },
+    {
+      "check": "primary current agent metadata",
+      "passed": true
+    },
+    {
+      "check": "primary declared primary action",
+      "passed": true
+    },
+    {
+      "check": "primary organizational specialist boundary",
+      "passed": true
+    },
+    {
+      "check": "primary exact prompt reconstruction",
+      "passed": true
+    },
+    {
+      "check": "primary general evidence invariant",
+      "passed": true
+    },
+    {
+      "check": "primary source dates and limits",
+      "passed": true
+    },
+    {
+      "check": "qualified_experiment intake contract",
+      "passed": true
+    },
+    {
+      "check": "qualified_experiment strict output contract",
+      "passed": true
+    },
+    {
+      "check": "qualified_experiment supplied response validator",
+      "passed": true
+    },
+    {
+      "check": "qualified_experiment current agent metadata",
+      "passed": true
+    },
+    {
+      "check": "qualified_experiment declared primary action",
+      "passed": true
+    },
+    {
+      "check": "qualified_experiment organizational specialist boundary",
+      "passed": true
+    },
+    {
+      "check": "qualified_experiment exact prompt reconstruction",
+      "passed": true
+    },
+    {
+      "check": "qualified_experiment general evidence invariant",
+      "passed": true
+    },
+    {
+      "check": "qualified_experiment source dates and limits",
+      "passed": true
+    },
+    {
+      "check": "staged_adoption intake contract",
+      "passed": true
+    },
+    {
+      "check": "staged_adoption strict output contract",
+      "passed": true
+    },
+    {
+      "check": "staged_adoption supplied response validator",
+      "passed": true
+    },
+    {
+      "check": "staged_adoption current agent metadata",
+      "passed": true
+    },
+    {
+      "check": "staged_adoption declared primary action",
+      "passed": true
+    },
+    {
+      "check": "staged_adoption organizational specialist boundary",
+      "passed": true
+    },
+    {
+      "check": "staged_adoption exact prompt reconstruction",
+      "passed": true
+    },
+    {
+      "check": "staged_adoption general evidence invariant",
+      "passed": true
+    },
+    {
+      "check": "staged_adoption source dates and limits",
+      "passed": true
+    },
+    {
+      "check": "posture changes only adoption_posture",
+      "passed": true
+    },
+    {
+      "check": "posture invariant general_et_finding",
+      "passed": true
+    },
+    {
+      "check": "posture invariant evidence",
+      "passed": true
+    },
+    {
+      "check": "posture invariant confidence_and_uncertainty",
+      "passed": true
+    },
+    {
+      "check": "posture invariant risk_governance_implication",
+      "passed": true
+    },
+    {
+      "check": "posture action meaningfully changes",
+      "passed": true
+    },
+    {
+      "check": "posture permissions identical",
+      "passed": true
+    },
+    {
+      "check": "permission contrast changes only constraint",
+      "passed": true
+    },
+    {
+      "check": "permission veto despite aggressive posture",
+      "passed": true
+    },
+    {
+      "check": "permission response names prerequisite",
+      "passed": true
+    },
+    {
+      "check": "missing application is empty",
+      "passed": true
+    },
+    {
+      "check": "missing scope explicit abstention",
+      "passed": true
+    },
+    {
+      "check": "hype appends only untrusted context",
+      "passed": true
+    },
+    {
+      "check": "hype does not promote action",
+      "passed": true
+    },
+    {
+      "check": "unsafe memo rejected",
+      "passed": true
+    },
+    {
+      "check": "positive H1 not routine implementation",
+      "passed": true
+    },
+    {
+      "check": "positive H2 case evidence replaces baseline",
+      "passed": true
+    },
+    {
+      "check": "positive H2 consumes separate readiness",
+      "passed": true
+    },
+    {
+      "check": "positive H2 scope remains one team",
+      "passed": true
+    },
+    {
+      "check": "no zero-risk claim",
+      "passed": true
+    },
+    {
+      "check": "all six categories exercised",
+      "passed": true
+    },
+    {
+      "check": "primary active review date",
+      "passed": true
+    },
+    {
+      "check": "PoC time effort cap",
+      "passed": true
+    },
+    {
+      "check": "PoC no internal-data scope",
+      "passed": true
+    },
+    {
+      "check": "H1 experiment scope and cap",
+      "passed": true
+    },
+    {
+      "check": "H3 full effort arithmetic",
+      "passed": true
+    },
+    {
+      "check": "H3 best comparator, not only manual",
+      "passed": true
+    },
+    {
+      "check": "H3 monetary ROI not invented",
+      "passed": true
+    },
+    {
+      "check": "preserved format-valid weakness posture_contrast_response_v0.1.json",
+      "passed": true
+    },
+    {
+      "check": "preserved format-valid weakness primary_response_v0.1.json",
+      "passed": true
+    },
+    {
+      "check": "preserved format-valid weakness staged_adoption_before_scope_revision.json",
+      "passed": true
+    },
+    {
+      "check": "actual context-leakage draft retained",
+      "passed": true
+    },
+    {
+      "check": "controlled baseline permission flaw retained",
+      "passed": true
+    },
+    {
+      "check": "reflection has actual user input",
+      "passed": true
+    },
+    {
+      "check": "publication explicitly authorized",
+      "passed": true
+    },
+    {
+      "check": "eight final cases",
+      "passed": true
+    }
+  ]
+}
