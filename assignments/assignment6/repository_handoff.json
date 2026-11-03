@@ -1,0 +1,38 @@
+{
+  "assignment": "Assignment 6 / Lab6 - Emerging Technology Adoption Agent",
+  "author": "Yufei Cai",
+  "version": "1.0",
+  "date": "2026-11-02",
+  "repository": "https://github.com/caiyf17/masy1800-assignment2-creation-agent",
+  "visibility": "public",
+  "branch": "assignment-6-adoption-agent",
+  "repository_path": "assignments/assignment6",
+  "branch_url": "https://github.com/caiyf17/masy1800-assignment2-creation-agent/tree/assignment-6-adoption-agent/assignments/assignment6",
+  "implementation_commit": "97488687c891c5cb3e104902cf0b7b09d7344e43",
+  "source_commit": "8bce4b04bad94f33a22f7fe7c126fef0f43faf58",
+  "source_commit_url": "https://github.com/caiyf17/masy1800-assignment2-creation-agent/tree/8bce4b04bad94f33a22f7fe7c126fef0f43faf58/assignments/assignment6",
+  "commit_scope": "The source commit fixes the complete Word report and agent package. A later delivery-only commit adds this handoff, SHA256SUMS.txt and the identical submission ZIP; its own hash is intentionally not embedded in the archive.",
+  "report": "Cai_Yufei_Assignment6_Adoption_Agent_Record.docx",
+  "report_sha256": "3ea91436a9830d25ae3af21a2dacd334273dfcab6e6105d7a8110e48c18af5d1",
+  "submission_archive": "Cai_Yufei_Lab6_Adoption_Agent_Submission.zip",
+  "github_source_upload": "Published and verified by a fresh GitHub checkout",
+  "fresh_checkout_checks": {
+    "passed": 150,
+    "total": 150,
+    "working_tree_clean_after_recheck": true,
+    "source_files_byte_identical": true
+  },
+  "scope_limit": "Local saved-example and integrity checks, not an independent model reliability benchmark or a real company pilot.",
+  "protected_remote_branches_unchanged": {
+    "assignment-3-innovation-disruption-agent": "f6892e0ba25d8ac3f769a9a4cc8c182848404887",
+    "assignment-4-promethean-agent": "3e6d315fbb747127ad28946395636059899e6324",
+    "assignment-5-diffusion-agent": "d0c0fd944d44a984b57ce36cc4732edc5833a166",
+    "lab2-creation-agent": "bdbab604c1743a75e21011be0e0a581e4f783bbf",
+    "main": "bdbab604c1743a75e21011be0e0a581e4f783bbf"
+  },
+  "main_merged": false,
+  "previous_assignment_branches_modified": false,
+  "brightspace_submitted": false,
+  "user_reflection_input_incorporated": true,
+  "pending_user_confirmations": []
+}
