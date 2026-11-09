@@ -1,0 +1,40 @@
+{
+  "assignment": "Assignment 7 / Lab7 Organizational Adoption Agent",
+  "author": "Yufei Cai",
+  "version": "1.0",
+  "date": "2026-11-09",
+  "repository": "https://github.com/caiyf17/masy1800-assignment2-creation-agent",
+  "visibility": "public",
+  "branch": "assignment-7-organizational-adoption-agent",
+  "repository_path": "assignments/assignment7",
+  "branch_url": "https://github.com/caiyf17/masy1800-assignment2-creation-agent/tree/assignment-7-organizational-adoption-agent/assignments/assignment7",
+  "implementation_commit": "1b32fe8d4fcb30b502efa5ab82817dc5d3775954",
+  "source_commit": "ee20646eb48571d9f79ca8f948c6dafe5e7b6838",
+  "source_commit_url": "https://github.com/caiyf17/masy1800-assignment2-creation-agent/tree/ee20646eb48571d9f79ca8f948c6dafe5e7b6838/assignments/assignment7",
+  "commit_scope": "Source commit fixes the complete report and agent package. A later delivery-only commit adds this handoff, SHA256SUMS.txt and the identical ZIP; its own self-referential hash is not embedded.",
+  "report": "Cai_Yufei_Assignment7_Organizational_Adoption_Agent_Record.docx",
+  "report_sha256": "23c2f488d4a4a2604dc14718f467e682de98c2c4cc9f091d6d0e5a073b09685f",
+  "submission_archive": "Cai_Yufei_Lab7_Organizational_Adoption_Agent_Submission.zip",
+  "github_source_upload": "Published and verified by a fresh GitHub checkout",
+  "fresh_checkout_verification": {
+    "passed": 185,
+    "total": 185,
+    "source_files_byte_identical": true,
+    "working_tree_clean_after_recheck": true
+  },
+  "protected_remote_branches_unchanged": {
+    "assignment-3-innovation-disruption-agent": "f6892e0ba25d8ac3f769a9a4cc8c182848404887",
+    "assignment-4-promethean-agent": "3e6d315fbb747127ad28946395636059899e6324",
+    "assignment-5-diffusion-agent": "d0c0fd944d44a984b57ce36cc4732edc5833a166",
+    "assignment-6-adoption-agent": "39e8d8af20d8eb03b8c71ee3623810764fde9f73",
+    "lab2-creation-agent": "bdbab604c1743a75e21011be0e0a581e4f783bbf",
+    "main": "bdbab604c1743a75e21011be0e0a581e4f783bbf"
+  },
+  "main_merged": false,
+  "prior_assignment_branches_modified": false,
+  "pull_request_created": false,
+  "brightspace_submitted": false,
+  "reflection_grounded_in_user_input": true,
+  "pending_user_confirmations": [],
+  "limits": "Fictional organizational profiles and planning values; same-assistant saved examples, not actual firm permission, a company pilot, independent LLM benchmark, legal certification or financial ROI. Local artifact checks do not guarantee a full-score grade."
+}
