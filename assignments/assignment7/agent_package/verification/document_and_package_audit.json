@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "date": "2026-11-09",
+  "report_pages": 5,
+  "all_latest_pages_visually_reviewed": true,
+  "report_sha256": "23c2f488d4a4a2604dc14718f467e682de98c2c4cc9f091d6d0e5a073b09685f",
+  "template_sha256": "5275ea28e66a27d5ddfae3c0541ce7cf7711655a450da7eecb4d36b0ced7e802",
+  "package_parts_total": 19,
+  "preserved_byte_identical": 13,
+  "edited_parts": [
+    "docProps/core.xml",
+    "word/document.xml",
+    "word/_rels/document.xml.rels",
+    "word/header1.xml",
+    "word/styles.xml",
+    "word/footer1.xml"
+  ],
+  "original_relationships_and_page_geometry_preserved": true,
+  "comments_or_tracked_changes": false,
+  "empty_report_cells_or_placeholders": false,
+  "user_reflection_input_incorporated": true,
+  "original_inputs_unchanged": 7,
+  "upstream_originals_unchanged": 6,
+  "canonical_files_unchanged": 32,
+  "frozen_files_unchanged": 7,
+  "readiness_domains": 8,
+  "current_cases": 8,
+  "controlled_weak_examples": 2,
+  "local_artifact_checks": "185/185",
+  "limits": "Same-assistant qualitative saved examples; no independent model benchmark, real company permissions/observations, chart trial, financial ROI or compliance certification."
+}
