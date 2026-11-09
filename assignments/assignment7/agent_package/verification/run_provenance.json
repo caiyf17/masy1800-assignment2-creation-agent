@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-09",
+  "runtime": "Current ChatGPT/Codex assistant; no separate inference API",
+  "method": "The assistant reasoned through and authored qualitative examples. Scripts serialize responses, reconstruct prompts and validate saved artifacts. Declared judgments are analytical fixtures, not an independent benchmark oracle.",
+  "limits": [
+    "No isolated model repeats or independent evaluator",
+    "Controlled weak baseline explicitly distinguishes deliberate diagnostic examples from an actual packaging-name issue",
+    "R1/L1 and capacity inputs are fictional; no firm permission, charter, training, budget or chart trial actually obtained",
+    "No actual ROI, current model qualification, technology maturity change or compliance certification claimed"
+  ],
+  "instructions_sha256": "761a68ecece5db4e4f0c75d5c10e2c61ffb6b953243d22139d23e16da3846760",
+  "metadata_sha256": "49f727f2c41286ed720b2e0af005f38bda6119e27cf1eeeb19a6666f0403d983",
+  "cases": [
+    {
+      "case": "bounded_poc_only",
+      "case_sha256": "b7ef4a2362fa40a5419a53424b2cbf208c158d2d2c9da33d8f6bb8b7c12525b5",
+      "prompt_sha256": "9c33472d9d9495131abe2499596858d5e6a83ca775ae9b765e271da0db4bb673",
+      "response_sha256": "fcea2b21f3f3c825d7e754db4c79ca8af71c3f4ece7e544168d7655fb48cf061",
+      "judgment": "LIMITED_LEARNING_ONLY"
+    },
+    {
+      "case": "capacity_shortfall",
+      "case_sha256": "53e12db02bbf0a5b58e0969435bc7d908c1575b31956d56278159b86dfebb45c",
+      "prompt_sha256": "fef159e21a0b4585cc5a0833ddb4e33efaf98b702248a75b491e200a4a44f3b4",
+      "response_sha256": "6aaa93d8ebd740a310aaecccf45259507c649d9df5ecd3b5405a23a6ffa830b6",
+      "judgment": "NOT_READY_FOR_DEFINED_SCOPE"
+    },
+    {
+      "case": "capacity_unknown",
+      "case_sha256": "9e43ba12ea5c1919d458ff66c38362ae91c979e8155d88113f3b248ac9df01b2",
+      "prompt_sha256": "d8d653e19292572a8bdb72a96fd1eb26d7807f4d45188366da1c5c52bb86a002",
+      "response_sha256": "f0c4d4e913dabc482e1efa79916ca7008646a106dd96f450e1889c590f04a53c",
+      "judgment": "MORE_EVIDENCE_REQUIRED"
+    },
+    {
+      "case": "hype_probe",
+      "case_sha256": "7b56e4aea73d6950625f396c0d634010dee665656c2c89c3502d95ec479a94b5",
+      "prompt_sha256": "1976f48870ed8067e4389dcf9089da01e90154d251cad8e1702f972b4fbc363c",
+      "response_sha256": "a9aa013eadee2ab3baccc3972e34592dc6130a7ec4c093835ba80776c6e545ad",
+      "judgment": "NOT_READY_FOR_DEFINED_SCOPE"
+    },
+    {
+      "case": "ownership_loss",
+      "case_sha256": "dfb1feeebca6fe930973c93789759e83900864a8bbbde02b0d47450710822344",
+      "prompt_sha256": "ffe0921cbd800ab4c37b489121ef5331b5a39735395db9aa66a0fca0d010212b",
+      "response_sha256": "655c9f56816180f814c9591146d937e4fef5ea321a2bf4b46e4f65e54aced20c",
+      "judgment": "NOT_READY_FOR_DEFINED_SCOPE"
+    },
+    {
+      "case": "primary",
+      "case_sha256": "f6d6bfea55870fc3fc7a59cb683f51d43d71493ca30a7dbe42e00d8a080f1b98",
+      "prompt_sha256": "7b94040d33e7b4f0ee715d39eeccac557e729bbee5f2a2a6116a69c54883b5ee",
+      "response_sha256": "98825d368c1465382e38bc06b299e60b9c5d37dd1826523cbe6bcb2e303361f1",
+      "judgment": "NOT_READY_FOR_DEFINED_SCOPE"
+    },
+    {
+      "case": "readiness_contrast",
+      "case_sha256": "a4742bcd9591f909071e7d4409233e5cec19a86642aaeccd2d167e05eb77f765",
+      "prompt_sha256": "ee3c1fcf80615531b36985eb1526d26667df79e57d3c73fcb3c8c68448640cb4",
+      "response_sha256": "58cb3fdd951e3e9345942207ff0381738a67bf20246049b39bb027f74ffe38f9",
+      "judgment": "SUPPORTED_CONDITIONAL_ON_ADOPTION_CLEARANCE"
+    },
+    {
+      "case": "sponsor_only",
+      "case_sha256": "a37adf4a6a64f8bbcf4fcee5ead64eea530202c786f0b75874a1b4d5b3a0a9de",
+      "prompt_sha256": "a2408511ba65558793f4bf0da3aae3482f7ca0f91b6c444951c56b06e4126beb",
+      "response_sha256": "5720a0527a5f5a532d6fdb1905a799d5eb173d74af0e3f67d1e91a6e6863e92d",
+      "judgment": "NOT_READY_FOR_DEFINED_SCOPE"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "agent": {
+    "name": "Technology Sustainability Screening Agent",
+    "specialty": "environmental sustainability screening (toy example only)",
+    "version": "1.0-example"
+  },
+  "analytical_question": "What sustainability considerations should management examine before a bounded edge-AI quality-inspection experiment?",
+  "general_et_finding": "Edge AI can shift some computation from centralized services to local hardware, but environmental impact depends heavily on device manufacture, utilization, useful life, and the electricity mix.",
+  "application_finding": "For one inspection line, the sustainability question is narrower than for fleet-scale deployment; the relevant comparison is the incremental accelerator footprint versus avoided rework, data transfer, and other process effects.",
+  "organization_specific_finding": "A mid-size manufacturer can reasonably treat sustainability as a measured experiment criterion, but it lacks enough supplied energy and lifecycle data to claim that the application is environmentally beneficial.",
+  "evidence": [
+    {
+      "claim": "Toy example intentionally contains no external factual claim that should drive a real decision.",
+      "source_or_reference": "Course scaffold example",
+      "date_or_recency": "Fall 2026",
+      "evidence_type": "instructional example",
+      "notes": "Replace with authoritative evidence in graded work."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "No measured energy use, device lifecycle, rework reduction, or electricity-mix data were supplied."
+  ],
+  "confidence_and_uncertainty": "Low-to-moderate; the structure of the judgment is clear but case-specific evidence is intentionally absent.",
+  "value_opportunity_implication": "A bounded experiment could collect both quality and resource-use evidence.",
+  "risk_governance_implication": "Avoid sustainability claims until the comparison boundary and measurements are defined.",
+  "recommendation_management_implication": "Include energy/resource measurements in the experiment rather than using sustainability as either a reason to approve or reject the experiment now.",
+  "change_monitoring_triggers": [
+    "Measured accelerator energy use",
+    "Measured rework reduction",
+    "Expected device utilization and useful life"
+  ],
+  "abstention_or_more_information_needed": [
+    "Electricity source",
+    "Hardware lifecycle assumptions",
+    "Baseline inspection/rework resource use"
+  ]
+}

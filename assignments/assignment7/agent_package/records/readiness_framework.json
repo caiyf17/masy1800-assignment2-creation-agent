@@ -1,0 +1,65 @@
+{
+  "authority": "Assignment7 eight required dimensions; S1/S2 inform questions, not a validated instrument",
+  "evidence_states": [
+    "SUPPORTED_IN_CASE",
+    "GAP_IN_CASE",
+    "UNKNOWN"
+  ],
+  "judgments": [
+    "NOT_READY_FOR_DEFINED_SCOPE",
+    "SUPPORTED_CONDITIONAL_ON_ADOPTION_CLEARANCE",
+    "MORE_EVIDENCE_REQUIRED",
+    "LIMITED_LEARNING_ONLY"
+  ],
+  "decision_rule": "No weighted average. A known scope-critical gap blocks that scope; a critical unknown requests evidence rather than inventing pass/fail. Supported organizational conditions do not prove task performance or authorize adoption.",
+  "domains": [
+    {
+      "id": "leadership_sponsorship",
+      "name": "Leadership and sponsorship",
+      "question": "Who backs the scoped activity and accepts its residual risk?",
+      "proposed_owner_role": "Proposed business sponsor"
+    },
+    {
+      "id": "skills_training",
+      "name": "Skills and training",
+      "question": "Who can review errors/abstentions and has demonstrated the required competence?",
+      "proposed_owner_role": "Proposed reporting/training lead"
+    },
+    {
+      "id": "workflow_process",
+      "name": "Workflow and process",
+      "question": "Where do source checks, human approval, exceptions and fallback occur?",
+      "proposed_owner_role": "Proposed reporting-process owner"
+    },
+    {
+      "id": "infrastructure_data",
+      "name": "Infrastructure and data",
+      "question": "Which model/data/environment/tool scope is actually authorized and traceable?",
+      "proposed_owner_role": "Proposed IT/security and data owner"
+    },
+    {
+      "id": "resources_budget",
+      "name": "Resources and budget",
+      "question": "What protected review/support time and prospective funding cover steady-state and peaks?",
+      "proposed_owner_role": "Proposed reporting manager and budget owner"
+    },
+    {
+      "id": "governance_risk",
+      "name": "Governance and risk",
+      "question": "Who can approve, stop, log incidents, review changes and accept residual risk?",
+      "proposed_owner_role": "Proposed risk/security authority"
+    },
+    {
+      "id": "culture_change",
+      "name": "Culture and change",
+      "question": "Do affected users understand the task, have a feedback route and accept the workflow?",
+      "proposed_owner_role": "Proposed change lead and affected reviewers"
+    },
+    {
+      "id": "operating_ownership",
+      "name": "Operating ownership",
+      "question": "Who owns ongoing service, reviewer cover, incidents, changes and retirement?",
+      "proposed_owner_role": "Proposed accountable service owner"
+    }
+  ]
+}

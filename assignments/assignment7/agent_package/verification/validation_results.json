@@ -1,0 +1,748 @@
+{
+  "passed": 185,
+  "total": 185,
+  "all_passed": true,
+  "scope": "Byte integrity, frozen schema keywords, exact packet reconstruction, case isolation, declared readiness/profile constraints, attribution and arithmetic; not future LLM reliability",
+  "checks": [
+    {
+      "check": "frozen core/common_instructions.md",
+      "passed": true
+    },
+    {
+      "check": "frozen core/input_schema.json",
+      "passed": true
+    },
+    {
+      "check": "frozen core/output_schema.json",
+      "passed": true
+    },
+    {
+      "check": "frozen tools/build_prompt.py",
+      "passed": true
+    },
+    {
+      "check": "frozen tools/check_frozen_core.py",
+      "passed": true
+    },
+    {
+      "check": "frozen tools/new_agent.py",
+      "passed": true
+    },
+    {
+      "check": "frozen tools/validate_response.py",
+      "passed": true
+    },
+    {
+      "check": "canonical original GITHUB_WORKING_COPY.md",
+      "passed": true
+    },
+    {
+      "check": "canonical original FROZEN_CORE_SHA256.txt",
+      "passed": true
+    },
+    {
+      "check": "canonical original VERSION.txt",
+      "passed": true
+    },
+    {
+      "check": "canonical original .gitignore",
+      "passed": true
+    },
+    {
+      "check": "canonical original requirements.txt",
+      "passed": true
+    },
+    {
+      "check": "canonical original START_HERE.md",
+      "passed": true
+    },
+    {
+      "check": "canonical original CHATGPT_CODEX_WORKFLOW.md",
+      "passed": true
+    },
+    {
+      "check": "canonical original README.md",
+      "passed": true
+    },
+    {
+      "check": "canonical original PACKAGE_SHA256.txt",
+      "passed": true
+    },
+    {
+      "check": "canonical original examples/toy_agent/agent_metadata.json",
+      "passed": true
+    },
+    {
+      "check": "canonical original examples/toy_agent/specialist_instructions.md",
+      "passed": true
+    },
+    {
+      "check": "canonical original examples/toy_agent/cases/primary.json",
+      "passed": true
+    },
+    {
+      "check": "canonical original examples/toy_agent/responses/primary_response.json",
+      "passed": true
+    },
+    {
+      "check": "canonical original work/toy_agent_primary_prompt.txt",
+      "passed": true
+    },
+    {
+      "check": "canonical original work/.gitkeep",
+      "passed": true
+    },
+    {
+      "check": "canonical original tools/check_frozen_core.py",
+      "passed": true
+    },
+    {
+      "check": "canonical original tools/validate_response.py",
+      "passed": true
+    },
+    {
+      "check": "canonical original tools/build_prompt.py",
+      "passed": true
+    },
+    {
+      "check": "canonical original tools/new_agent.py",
+      "passed": true
+    },
+    {
+      "check": "canonical original agents/_template/agent_metadata.json",
+      "passed": true
+    },
+    {
+      "check": "canonical original agents/_template/specialist_instructions.md",
+      "passed": true
+    },
+    {
+      "check": "canonical original agents/_template/README.md",
+      "passed": true
+    },
+    {
+      "check": "canonical original agents/_template/records/agent_record.md",
+      "passed": true
+    },
+    {
+      "check": "canonical original agents/_template/cases/primary.json",
+      "passed": true
+    },
+    {
+      "check": "canonical original agents/_template/cases/contrast_1.json",
+      "passed": true
+    },
+    {
+      "check": "canonical original agents/_template/cases/contrast_2.json",
+      "passed": true
+    },
+    {
+      "check": "canonical original agents/_template/responses/.gitkeep",
+      "passed": true
+    },
+    {
+      "check": "canonical original core/output_schema.json",
+      "passed": true
+    },
+    {
+      "check": "canonical original core/common_instructions.md",
+      "passed": true
+    },
+    {
+      "check": "canonical original core/input_schema.json",
+      "passed": true
+    },
+    {
+      "check": "canonical original docs/Emerging_Technologies_Common_Agent_Scaffold_Student_Guide_v2.docx",
+      "passed": true
+    },
+    {
+      "check": "canonical original docs/Emerging_Technologies_Agent_Record_Template.docx",
+      "passed": true
+    },
+    {
+      "check": "unchanged upstream evidence/upstream/lab6/primary_response.json",
+      "passed": true
+    },
+    {
+      "check": "unchanged upstream evidence/upstream/lab6/team_handoff.md",
+      "passed": true
+    },
+    {
+      "check": "unchanged upstream evidence/upstream/tw7/primary.json",
+      "passed": true
+    },
+    {
+      "check": "unchanged upstream evidence/upstream/tw7/primary_response.json",
+      "passed": true
+    },
+    {
+      "check": "unchanged upstream evidence/upstream/tw7/team_release.json",
+      "passed": true
+    },
+    {
+      "check": "unchanged upstream evidence/upstream/tw7/team_handoff.md",
+      "passed": true
+    },
+    {
+      "check": "bounded_poc_only common intake contract",
+      "passed": true
+    },
+    {
+      "check": "bounded_poc_only common output contract",
+      "passed": true
+    },
+    {
+      "check": "bounded_poc_only original supplied validator",
+      "passed": true
+    },
+    {
+      "check": "bounded_poc_only final metadata",
+      "passed": true
+    },
+    {
+      "check": "bounded_poc_only declared readiness judgment",
+      "passed": true
+    },
+    {
+      "check": "bounded_poc_only all eight domains in profile",
+      "passed": true
+    },
+    {
+      "check": "bounded_poc_only all eight domains in response",
+      "passed": true
+    },
+    {
+      "check": "bounded_poc_only explicit evidence states",
+      "passed": true
+    },
+    {
+      "check": "bounded_poc_only missing-information behavior",
+      "passed": true
+    },
+    {
+      "check": "bounded_poc_only general finding invariant",
+      "passed": true
+    },
+    {
+      "check": "bounded_poc_only application finding invariant",
+      "passed": true
+    },
+    {
+      "check": "bounded_poc_only dated limited evidence",
+      "passed": true
+    },
+    {
+      "check": "bounded_poc_only exact prompt reconstruction",
+      "passed": true
+    },
+    {
+      "check": "capacity_shortfall common intake contract",
+      "passed": true
+    },
+    {
+      "check": "capacity_shortfall common output contract",
+      "passed": true
+    },
+    {
+      "check": "capacity_shortfall original supplied validator",
+      "passed": true
+    },
+    {
+      "check": "capacity_shortfall final metadata",
+      "passed": true
+    },
+    {
+      "check": "capacity_shortfall declared readiness judgment",
+      "passed": true
+    },
+    {
+      "check": "capacity_shortfall all eight domains in profile",
+      "passed": true
+    },
+    {
+      "check": "capacity_shortfall all eight domains in response",
+      "passed": true
+    },
+    {
+      "check": "capacity_shortfall explicit evidence states",
+      "passed": true
+    },
+    {
+      "check": "capacity_shortfall missing-information behavior",
+      "passed": true
+    },
+    {
+      "check": "capacity_shortfall general finding invariant",
+      "passed": true
+    },
+    {
+      "check": "capacity_shortfall application finding invariant",
+      "passed": true
+    },
+    {
+      "check": "capacity_shortfall dated limited evidence",
+      "passed": true
+    },
+    {
+      "check": "capacity_shortfall exact prompt reconstruction",
+      "passed": true
+    },
+    {
+      "check": "capacity_unknown common intake contract",
+      "passed": true
+    },
+    {
+      "check": "capacity_unknown common output contract",
+      "passed": true
+    },
+    {
+      "check": "capacity_unknown original supplied validator",
+      "passed": true
+    },
+    {
+      "check": "capacity_unknown final metadata",
+      "passed": true
+    },
+    {
+      "check": "capacity_unknown declared readiness judgment",
+      "passed": true
+    },
+    {
+      "check": "capacity_unknown all eight domains in profile",
+      "passed": true
+    },
+    {
+      "check": "capacity_unknown all eight domains in response",
+      "passed": true
+    },
+    {
+      "check": "capacity_unknown explicit evidence states",
+      "passed": true
+    },
+    {
+      "check": "capacity_unknown missing-information behavior",
+      "passed": true
+    },
+    {
+      "check": "capacity_unknown general finding invariant",
+      "passed": true
+    },
+    {
+      "check": "capacity_unknown application finding invariant",
+      "passed": true
+    },
+    {
+      "check": "capacity_unknown dated limited evidence",
+      "passed": true
+    },
+    {
+      "check": "capacity_unknown exact prompt reconstruction",
+      "passed": true
+    },
+    {
+      "check": "hype_probe common intake contract",
+      "passed": true
+    },
+    {
+      "check": "hype_probe common output contract",
+      "passed": true
+    },
+    {
+      "check": "hype_probe original supplied validator",
+      "passed": true
+    },
+    {
+      "check": "hype_probe final metadata",
+      "passed": true
+    },
+    {
+      "check": "hype_probe declared readiness judgment",
+      "passed": true
+    },
+    {
+      "check": "hype_probe all eight domains in profile",
+      "passed": true
+    },
+    {
+      "check": "hype_probe all eight domains in response",
+      "passed": true
+    },
+    {
+      "check": "hype_probe explicit evidence states",
+      "passed": true
+    },
+    {
+      "check": "hype_probe missing-information behavior",
+      "passed": true
+    },
+    {
+      "check": "hype_probe general finding invariant",
+      "passed": true
+    },
+    {
+      "check": "hype_probe application finding invariant",
+      "passed": true
+    },
+    {
+      "check": "hype_probe dated limited evidence",
+      "passed": true
+    },
+    {
+      "check": "hype_probe exact prompt reconstruction",
+      "passed": true
+    },
+    {
+      "check": "ownership_loss common intake contract",
+      "passed": true
+    },
+    {
+      "check": "ownership_loss common output contract",
+      "passed": true
+    },
+    {
+      "check": "ownership_loss original supplied validator",
+      "passed": true
+    },
+    {
+      "check": "ownership_loss final metadata",
+      "passed": true
+    },
+    {
+      "check": "ownership_loss declared readiness judgment",
+      "passed": true
+    },
+    {
+      "check": "ownership_loss all eight domains in profile",
+      "passed": true
+    },
+    {
+      "check": "ownership_loss all eight domains in response",
+      "passed": true
+    },
+    {
+      "check": "ownership_loss explicit evidence states",
+      "passed": true
+    },
+    {
+      "check": "ownership_loss missing-information behavior",
+      "passed": true
+    },
+    {
+      "check": "ownership_loss general finding invariant",
+      "passed": true
+    },
+    {
+      "check": "ownership_loss application finding invariant",
+      "passed": true
+    },
+    {
+      "check": "ownership_loss dated limited evidence",
+      "passed": true
+    },
+    {
+      "check": "ownership_loss exact prompt reconstruction",
+      "passed": true
+    },
+    {
+      "check": "primary common intake contract",
+      "passed": true
+    },
+    {
+      "check": "primary common output contract",
+      "passed": true
+    },
+    {
+      "check": "primary original supplied validator",
+      "passed": true
+    },
+    {
+      "check": "primary final metadata",
+      "passed": true
+    },
+    {
+      "check": "primary declared readiness judgment",
+      "passed": true
+    },
+    {
+      "check": "primary all eight domains in profile",
+      "passed": true
+    },
+    {
+      "check": "primary all eight domains in response",
+      "passed": true
+    },
+    {
+      "check": "primary explicit evidence states",
+      "passed": true
+    },
+    {
+      "check": "primary missing-information behavior",
+      "passed": true
+    },
+    {
+      "check": "primary general finding invariant",
+      "passed": true
+    },
+    {
+      "check": "primary application finding invariant",
+      "passed": true
+    },
+    {
+      "check": "primary dated limited evidence",
+      "passed": true
+    },
+    {
+      "check": "primary exact prompt reconstruction",
+      "passed": true
+    },
+    {
+      "check": "readiness_contrast common intake contract",
+      "passed": true
+    },
+    {
+      "check": "readiness_contrast common output contract",
+      "passed": true
+    },
+    {
+      "check": "readiness_contrast original supplied validator",
+      "passed": true
+    },
+    {
+      "check": "readiness_contrast final metadata",
+      "passed": true
+    },
+    {
+      "check": "readiness_contrast declared readiness judgment",
+      "passed": true
+    },
+    {
+      "check": "readiness_contrast all eight domains in profile",
+      "passed": true
+    },
+    {
+      "check": "readiness_contrast all eight domains in response",
+      "passed": true
+    },
+    {
+      "check": "readiness_contrast explicit evidence states",
+      "passed": true
+    },
+    {
+      "check": "readiness_contrast missing-information behavior",
+      "passed": true
+    },
+    {
+      "check": "readiness_contrast general finding invariant",
+      "passed": true
+    },
+    {
+      "check": "readiness_contrast application finding invariant",
+      "passed": true
+    },
+    {
+      "check": "readiness_contrast dated limited evidence",
+      "passed": true
+    },
+    {
+      "check": "readiness_contrast exact prompt reconstruction",
+      "passed": true
+    },
+    {
+      "check": "sponsor_only common intake contract",
+      "passed": true
+    },
+    {
+      "check": "sponsor_only common output contract",
+      "passed": true
+    },
+    {
+      "check": "sponsor_only original supplied validator",
+      "passed": true
+    },
+    {
+      "check": "sponsor_only final metadata",
+      "passed": true
+    },
+    {
+      "check": "sponsor_only declared readiness judgment",
+      "passed": true
+    },
+    {
+      "check": "sponsor_only all eight domains in profile",
+      "passed": true
+    },
+    {
+      "check": "sponsor_only all eight domains in response",
+      "passed": true
+    },
+    {
+      "check": "sponsor_only explicit evidence states",
+      "passed": true
+    },
+    {
+      "check": "sponsor_only missing-information behavior",
+      "passed": true
+    },
+    {
+      "check": "sponsor_only general finding invariant",
+      "passed": true
+    },
+    {
+      "check": "sponsor_only application finding invariant",
+      "passed": true
+    },
+    {
+      "check": "sponsor_only dated limited evidence",
+      "passed": true
+    },
+    {
+      "check": "sponsor_only exact prompt reconstruction",
+      "passed": true
+    },
+    {
+      "check": "primary controlled weak format valid",
+      "passed": true
+    },
+    {
+      "check": "primary controlled weak exact prompt",
+      "passed": true
+    },
+    {
+      "check": "readiness_contrast controlled weak format valid",
+      "passed": true
+    },
+    {
+      "check": "readiness_contrast controlled weak exact prompt",
+      "passed": true
+    },
+    {
+      "check": "readiness_contrast changes only capabilities_constraints",
+      "passed": true
+    },
+    {
+      "check": "sponsor_only changes only capabilities_constraints",
+      "passed": true
+    },
+    {
+      "check": "bounded_poc_only changes only capabilities_constraints",
+      "passed": true
+    },
+    {
+      "check": "capacity_unknown changes only capabilities_constraints",
+      "passed": true
+    },
+    {
+      "check": "capacity_shortfall changes only capabilities_constraints",
+      "passed": true
+    },
+    {
+      "check": "ownership_loss changes only capabilities_constraints",
+      "passed": true
+    },
+    {
+      "check": "hype appends context only",
+      "passed": true
+    },
+    {
+      "check": "primary and materially improved profile change readiness",
+      "passed": true
+    },
+    {
+      "check": "critical unknown distinct from known gap",
+      "passed": true
+    },
+    {
+      "check": "sponsorship cannot average away blocker",
+      "passed": true
+    },
+    {
+      "check": "learning permission not operating readiness",
+      "passed": true
+    },
+    {
+      "check": "loss of owner reverses readiness",
+      "passed": true
+    },
+    {
+      "check": "untrusted enthusiasm does not promote readiness",
+      "passed": true
+    },
+    {
+      "check": "unsafe memo request declined",
+      "passed": true
+    },
+    {
+      "check": "baseline analyst experience not invented training",
+      "passed": true
+    },
+    {
+      "check": "baseline culture acceptance not invented",
+      "passed": true
+    },
+    {
+      "check": "primary critical external route gap",
+      "passed": true
+    },
+    {
+      "check": "prioritized primary proposed roles",
+      "passed": true
+    },
+    {
+      "check": "conditional support not launch permission",
+      "passed": true
+    },
+    {
+      "check": "unknown capacity has no imported numeric demand",
+      "passed": true
+    },
+    {
+      "check": "unknown requests protected hours and cover",
+      "passed": true
+    },
+    {
+      "check": "capacity arithmetic with units",
+      "passed": true
+    },
+    {
+      "check": "no-buffer maximum not operating recommendation",
+      "passed": true
+    },
+    {
+      "check": "weak maturity conflation retained",
+      "passed": true
+    },
+    {
+      "check": "weak missing-information flaw retained",
+      "passed": true
+    },
+    {
+      "check": "eight dimensions, no arbitrary total",
+      "passed": true
+    },
+    {
+      "check": "three dependency priorities",
+      "passed": true
+    },
+    {
+      "check": "use case and PoC handoff exists",
+      "passed": true
+    },
+    {
+      "check": "future intake maps to existing contract",
+      "passed": true
+    },
+    {
+      "check": "actual reflection input preserved",
+      "passed": true
+    },
+    {
+      "check": "publication explicitly authorized",
+      "passed": true
+    },
+    {
+      "check": "eight final cases",
+      "passed": true
+    }
+  ]
+}

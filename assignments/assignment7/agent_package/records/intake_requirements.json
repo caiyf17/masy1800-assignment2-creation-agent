@@ -1,0 +1,52 @@
+[
+  {
+    "organizational_field": "Target scope/stage",
+    "existing_common_field": "management_question and intended_application",
+    "question": "Which team, activity, data and operating/learning scope are being assessed?"
+  },
+  {
+    "organizational_field": "Sponsor and risk authority",
+    "existing_common_field": "capabilities_constraints",
+    "question": "Who sponsors this precise scope and owns its risk/release decision?"
+  },
+  {
+    "organizational_field": "Review competence/training",
+    "existing_common_field": "capabilities_constraints and users_stakeholders",
+    "question": "What review skills have been demonstrated, by whom, and on which tasks?"
+  },
+  {
+    "organizational_field": "Human workflow/fallback",
+    "existing_common_field": "capabilities_constraints",
+    "question": "Where are source checks, sign-off, exceptions, stopping and rollback documented?"
+  },
+  {
+    "organizational_field": "Model/data/environment permission",
+    "existing_common_field": "capabilities_constraints and risk_consequence_context",
+    "question": "Which route, datasets, tool rights and versions are actually approved?"
+  },
+  {
+    "organizational_field": "Capacity and prospective resources",
+    "existing_common_field": "capabilities_constraints",
+    "question": "What demand/peaks, complete review time, protected hours, budget, leave/backup and support cover are documented?"
+  },
+  {
+    "organizational_field": "Governance and incidents",
+    "existing_common_field": "capabilities_constraints",
+    "question": "Who can stop, log/escalate incidents, accept residual risk and review changes?"
+  },
+  {
+    "organizational_field": "Affected-user change/feedback",
+    "existing_common_field": "users_stakeholders and capabilities_constraints",
+    "question": "What concerns, consultation, adoption support and feedback evidence exist?"
+  },
+  {
+    "organizational_field": "Accountable service ownership",
+    "existing_common_field": "capabilities_constraints",
+    "question": "Who owns steady-state operation, deputy cover, support, monitoring, changes and retirement?"
+  },
+  {
+    "organizational_field": "Evidence dates and gaps",
+    "existing_common_field": "additional_context",
+    "question": "Which claims are supplied facts, assumptions, current dated records or missing evidence?"
+  }
+]

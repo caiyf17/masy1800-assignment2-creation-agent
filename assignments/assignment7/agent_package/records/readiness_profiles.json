@@ -1,0 +1,464 @@
+{
+  "primary": {
+    "judgment": "NOT_READY_FOR_DEFINED_SCOPE",
+    "scope": "One reporting team, human-reviewed read-only operating workflow",
+    "domains": [
+      {
+        "id": "leadership_sponsorship",
+        "status": "UNKNOWN",
+        "evidence": "Sponsor commitment, scope decision and risk-acceptance authority are not provided.",
+        "proposed_owner_role": "Proposed business sponsor"
+      },
+      {
+        "id": "skills_training",
+        "status": "UNKNOWN",
+        "evidence": "Experienced analysts are a supplied strength, but agent-review training or demonstrated competence is not provided.",
+        "proposed_owner_role": "Proposed reporting/training lead"
+      },
+      {
+        "id": "workflow_process",
+        "status": "UNKNOWN",
+        "evidence": "Established reporting exists; an agent-specific review, exception and fallback procedure is not supplied.",
+        "proposed_owner_role": "Proposed reporting-process owner"
+      },
+      {
+        "id": "infrastructure_data",
+        "status": "GAP_IN_CASE",
+        "evidence": "The contemplated external model route is not approved. BI source tables exist; an approved internal alternative is not supplied.",
+        "proposed_owner_role": "Proposed IT/security and data owner"
+      },
+      {
+        "id": "resources_budget",
+        "status": "UNKNOWN",
+        "evidence": "Protected review/support time, demand profile, ongoing budget and contingency cover are not provided.",
+        "proposed_owner_role": "Proposed reporting manager and budget owner"
+      },
+      {
+        "id": "governance_risk",
+        "status": "UNKNOWN",
+        "evidence": "Human sign-off is required, but documented activity-specific controls, incident authority and change review are not supplied.",
+        "proposed_owner_role": "Proposed risk/security authority"
+      },
+      {
+        "id": "culture_change",
+        "status": "UNKNOWN",
+        "evidence": "Affected staff acceptance, concerns and feedback arrangements are not reported; resistance is not inferred.",
+        "proposed_owner_role": "Proposed change lead and affected reviewers"
+      },
+      {
+        "id": "operating_ownership",
+        "status": "UNKNOWN",
+        "evidence": "A service owner, backup, escalation and retirement responsibility are not specified; the sponsor is not presumed to own operations.",
+        "proposed_owner_role": "Proposed accountable service owner"
+      }
+    ],
+    "evidence_requests": [
+      "Ask the business sponsor/security-data authority for permitted environment/data scope and approval responsibility; do not infer an approved internal route.",
+      "Ask the proposed service owner/reporting manager for accountable ownership, protected reviewer/support hours, chart demand, review-time distribution and peak/leave cover.",
+      "Ask the training/process/change leads for demonstrated review competence, SOP/incident rehearsal and affected-user feedback evidence."
+    ]
+  },
+  "readiness_contrast": {
+    "judgment": "SUPPORTED_CONDITIONAL_ON_ADOPTION_CLEARANCE",
+    "scope": "One reporting team, human-reviewed read-only operating workflow",
+    "domains": [
+      {
+        "id": "leadership_sponsorship",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "FICTIONAL R1: a business sponsor accepts this limited scope and allocates authority and resources; no real management decision is asserted.",
+        "proposed_owner_role": "Proposed business sponsor"
+      },
+      {
+        "id": "skills_training",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "Two designated reviewers have demonstrated source verification, error/abstention handling and escalation in a stipulated human-workflow rehearsal; this does not validate the model.",
+        "proposed_owner_role": "Proposed reporting/training lead"
+      },
+      {
+        "id": "workflow_process",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "A documented source-to-draft-to-human-sign-off process, exception queue, manual fallback and no autonomous publication are stipulated for one reporting team.",
+        "proposed_owner_role": "Proposed reporting-process owner"
+      },
+      {
+        "id": "infrastructure_data",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "The exact external model/data route is stipulated as approved for permitted de-identified extracts, read-only access, retained source traces and controlled model/version changes.",
+        "proposed_owner_role": "Proposed IT/security and data owner"
+      },
+      {
+        "id": "resources_budget",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "Fictional planning inputs: 120 charts/week, 12 review minutes/chart including checking/correction; two reviewers each have 16 protected review hours/week. Ongoing route/support budget and contingency cover are stipulated. Estimates still need empirical checking.",
+        "proposed_owner_role": "Proposed reporting manager and budget owner"
+      },
+      {
+        "id": "governance_risk",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "A stipulated risk owner accepts residual organizational risks within scope; incident logging, human stop/override, rollback and change re-review responsibilities are documented.",
+        "proposed_owner_role": "Proposed risk/security authority"
+      },
+      {
+        "id": "culture_change",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "Affected reviewers are stipulated as consulted, given role-specific training and a feedback/escalation route. This is not a measured staff survey.",
+        "proposed_owner_role": "Proposed change lead and affected reviewers"
+      },
+      {
+        "id": "operating_ownership",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "Reporting Operations Manager is explicitly assigned as the fictional accountable service owner, with deputy, incident contact, support funding and periodic reassessment/retirement responsibility.",
+        "proposed_owner_role": "Proposed accountable service owner"
+      }
+    ],
+    "evidence_requests": [
+      "Authentic task qualification and comparative value are still required from the relevant specialists before management can choose routine adoption.",
+      "In a real firm, replace the fictional R1 attestations with actual approval, workload, owner, training, budget and incident/rollback records."
+    ]
+  },
+  "sponsor_only": {
+    "judgment": "NOT_READY_FOR_DEFINED_SCOPE",
+    "scope": "One reporting team, human-reviewed read-only operating workflow",
+    "domains": [
+      {
+        "id": "leadership_sponsorship",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "FICTIONAL sponsor-only change: an executive champions the idea, but no data/environment authority, operational resources or service-owner assignment changes.",
+        "proposed_owner_role": "Proposed business sponsor"
+      },
+      {
+        "id": "skills_training",
+        "status": "UNKNOWN",
+        "evidence": "Experienced analysts are a supplied strength, but agent-review training or demonstrated competence is not provided.",
+        "proposed_owner_role": "Proposed reporting/training lead"
+      },
+      {
+        "id": "workflow_process",
+        "status": "UNKNOWN",
+        "evidence": "Established reporting exists; an agent-specific review, exception and fallback procedure is not supplied.",
+        "proposed_owner_role": "Proposed reporting-process owner"
+      },
+      {
+        "id": "infrastructure_data",
+        "status": "GAP_IN_CASE",
+        "evidence": "The contemplated external model route is not approved. BI source tables exist; an approved internal alternative is not supplied.",
+        "proposed_owner_role": "Proposed IT/security and data owner"
+      },
+      {
+        "id": "resources_budget",
+        "status": "UNKNOWN",
+        "evidence": "Protected review/support time, demand profile, ongoing budget and contingency cover are not provided.",
+        "proposed_owner_role": "Proposed reporting manager and budget owner"
+      },
+      {
+        "id": "governance_risk",
+        "status": "UNKNOWN",
+        "evidence": "Human sign-off is required, but documented activity-specific controls, incident authority and change review are not supplied.",
+        "proposed_owner_role": "Proposed risk/security authority"
+      },
+      {
+        "id": "culture_change",
+        "status": "UNKNOWN",
+        "evidence": "Affected staff acceptance, concerns and feedback arrangements are not reported; resistance is not inferred.",
+        "proposed_owner_role": "Proposed change lead and affected reviewers"
+      },
+      {
+        "id": "operating_ownership",
+        "status": "UNKNOWN",
+        "evidence": "A service owner, backup, escalation and retirement responsibility are not specified; the sponsor is not presumed to own operations.",
+        "proposed_owner_role": "Proposed accountable service owner"
+      }
+    ],
+    "evidence_requests": [
+      "Request the same specific data/environment approvals, service owner and protected resources as the baseline; sponsor enthusiasm alone does not answer them."
+    ]
+  },
+  "bounded_poc_only": {
+    "judgment": "LIMITED_LEARNING_ONLY",
+    "scope": "Public/synthetic isolated feasibility learning only",
+    "domains": [
+      {
+        "id": "leadership_sponsorship",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "FICTIONAL L1 learning scope only: sponsor and named owner approve public/synthetic isolated read-only feasibility work, human stopping/review, basic reviewer rehearsal, source logging and feedback, eight total analyst-hours over two weeks. No internal data, routine operating route, recurrent staffing or ongoing service funding is approved.",
+        "proposed_owner_role": "Proposed business sponsor"
+      },
+      {
+        "id": "skills_training",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "FICTIONAL L1 learning scope only: sponsor and named owner approve public/synthetic isolated read-only feasibility work, human stopping/review, basic reviewer rehearsal, source logging and feedback, eight total analyst-hours over two weeks. No internal data, routine operating route, recurrent staffing or ongoing service funding is approved.",
+        "proposed_owner_role": "Proposed reporting/training lead"
+      },
+      {
+        "id": "workflow_process",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "FICTIONAL L1 learning scope only: sponsor and named owner approve public/synthetic isolated read-only feasibility work, human stopping/review, basic reviewer rehearsal, source logging and feedback, eight total analyst-hours over two weeks. No internal data, routine operating route, recurrent staffing or ongoing service funding is approved.",
+        "proposed_owner_role": "Proposed reporting-process owner"
+      },
+      {
+        "id": "infrastructure_data",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "FICTIONAL L1 learning scope only: sponsor and named owner approve public/synthetic isolated read-only feasibility work, human stopping/review, basic reviewer rehearsal, source logging and feedback, eight total analyst-hours over two weeks. No internal data, routine operating route, recurrent staffing or ongoing service funding is approved.",
+        "proposed_owner_role": "Proposed IT/security and data owner"
+      },
+      {
+        "id": "resources_budget",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "FICTIONAL L1 learning scope only: sponsor and named owner approve public/synthetic isolated read-only feasibility work, human stopping/review, basic reviewer rehearsal, source logging and feedback, eight total analyst-hours over two weeks. No internal data, routine operating route, recurrent staffing or ongoing service funding is approved.",
+        "proposed_owner_role": "Proposed reporting manager and budget owner"
+      },
+      {
+        "id": "governance_risk",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "FICTIONAL L1 learning scope only: sponsor and named owner approve public/synthetic isolated read-only feasibility work, human stopping/review, basic reviewer rehearsal, source logging and feedback, eight total analyst-hours over two weeks. No internal data, routine operating route, recurrent staffing or ongoing service funding is approved.",
+        "proposed_owner_role": "Proposed risk/security authority"
+      },
+      {
+        "id": "culture_change",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "FICTIONAL L1 learning scope only: sponsor and named owner approve public/synthetic isolated read-only feasibility work, human stopping/review, basic reviewer rehearsal, source logging and feedback, eight total analyst-hours over two weeks. No internal data, routine operating route, recurrent staffing or ongoing service funding is approved.",
+        "proposed_owner_role": "Proposed change lead and affected reviewers"
+      },
+      {
+        "id": "operating_ownership",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "FICTIONAL L1 learning scope only: sponsor and named owner approve public/synthetic isolated read-only feasibility work, human stopping/review, basic reviewer rehearsal, source logging and feedback, eight total analyst-hours over two weeks. No internal data, routine operating route, recurrent staffing or ongoing service funding is approved.",
+        "proposed_owner_role": "Proposed accountable service owner"
+      }
+    ],
+    "evidence_requests": [
+      "Before any routine use, obtain a distinct operating route/approval, recurrent reviewer/support capacity, funded ownership, workflow/incident evidence and independent fit/value qualification.",
+      "Confirm L1 owner, cap, synthetic inputs and stopping criteria before actually starting learning."
+    ]
+  },
+  "capacity_unknown": {
+    "judgment": "MORE_EVIDENCE_REQUIRED",
+    "scope": "One reporting team, human-reviewed read-only operating workflow",
+    "domains": [
+      {
+        "id": "leadership_sponsorship",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "FICTIONAL R1: a business sponsor accepts this limited scope and allocates authority and resources; no real management decision is asserted.",
+        "proposed_owner_role": "Proposed business sponsor"
+      },
+      {
+        "id": "skills_training",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "Two designated reviewers have demonstrated source verification, error/abstention handling and escalation in a stipulated human-workflow rehearsal; this does not validate the model.",
+        "proposed_owner_role": "Proposed reporting/training lead"
+      },
+      {
+        "id": "workflow_process",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "A documented source-to-draft-to-human-sign-off process, exception queue, manual fallback and no autonomous publication are stipulated for one reporting team.",
+        "proposed_owner_role": "Proposed reporting-process owner"
+      },
+      {
+        "id": "infrastructure_data",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "The exact external model/data route is stipulated as approved for permitted de-identified extracts, read-only access, retained source traces and controlled model/version changes.",
+        "proposed_owner_role": "Proposed IT/security and data owner"
+      },
+      {
+        "id": "resources_budget",
+        "status": "UNKNOWN",
+        "evidence": "The prospective funding envelope is stipulated, but workload volume, complete review-time distribution, protected hours and peak/leave/support cover are missing. Do not import numerical capacity inputs from R1 or another profile.",
+        "proposed_owner_role": "Proposed reporting manager and budget owner"
+      },
+      {
+        "id": "governance_risk",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "A stipulated risk owner accepts residual organizational risks within scope; incident logging, human stop/override, rollback and change re-review responsibilities are documented.",
+        "proposed_owner_role": "Proposed risk/security authority"
+      },
+      {
+        "id": "culture_change",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "Affected reviewers are stipulated as consulted, given role-specific training and a feedback/escalation route. This is not a measured staff survey.",
+        "proposed_owner_role": "Proposed change lead and affected reviewers"
+      },
+      {
+        "id": "operating_ownership",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "Reporting Operations Manager is explicitly assigned as the fictional accountable service owner, with deputy, incident contact, support funding and periodic reassessment/retirement responsibility.",
+        "proposed_owner_role": "Proposed accountable service owner"
+      }
+    ],
+    "evidence_requests": [
+      "Ask the reporting manager: charts per week and peak period; complete handling-time distribution including correction; protected review hours; other duties; leave/backup cover; and support demand.",
+      "Request a dated workload/roster study. Withhold capacity-dependent readiness and launch; do not invent a headcount, utilization ratio or borrow the numbers from R1."
+    ]
+  },
+  "capacity_shortfall": {
+    "judgment": "NOT_READY_FOR_DEFINED_SCOPE",
+    "scope": "One reporting team, human-reviewed read-only operating workflow",
+    "domains": [
+      {
+        "id": "leadership_sponsorship",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "FICTIONAL R1: a business sponsor accepts this limited scope and allocates authority and resources; no real management decision is asserted.",
+        "proposed_owner_role": "Proposed business sponsor"
+      },
+      {
+        "id": "skills_training",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "Two designated reviewers have demonstrated source verification, error/abstention handling and escalation in a stipulated human-workflow rehearsal; this does not validate the model.",
+        "proposed_owner_role": "Proposed reporting/training lead"
+      },
+      {
+        "id": "workflow_process",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "A documented source-to-draft-to-human-sign-off process, exception queue, manual fallback and no autonomous publication are stipulated for one reporting team.",
+        "proposed_owner_role": "Proposed reporting-process owner"
+      },
+      {
+        "id": "infrastructure_data",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "The exact external model/data route is stipulated as approved for permitted de-identified extracts, read-only access, retained source traces and controlled model/version changes.",
+        "proposed_owner_role": "Proposed IT/security and data owner"
+      },
+      {
+        "id": "resources_budget",
+        "status": "GAP_IN_CASE",
+        "evidence": "Fictional planning inputs: 120 charts/week at 12 review minutes/chart including checking/correction, but two reviewers each have only six protected review hours/week. Ongoing budget exists; known review demand exceeds time. No spare cover or lower-volume approval is supplied.",
+        "proposed_owner_role": "Proposed reporting manager and budget owner"
+      },
+      {
+        "id": "governance_risk",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "A stipulated risk owner accepts residual organizational risks within scope; incident logging, human stop/override, rollback and change re-review responsibilities are documented.",
+        "proposed_owner_role": "Proposed risk/security authority"
+      },
+      {
+        "id": "culture_change",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "Affected reviewers are stipulated as consulted, given role-specific training and a feedback/escalation route. This is not a measured staff survey.",
+        "proposed_owner_role": "Proposed change lead and affected reviewers"
+      },
+      {
+        "id": "operating_ownership",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "Reporting Operations Manager is explicitly assigned as the fictional accountable service owner, with deputy, incident contact, support funding and periodic reassessment/retirement responsibility.",
+        "proposed_owner_role": "Proposed accountable service owner"
+      }
+    ],
+    "evidence_requests": [
+      "Ask the reporting and budget owners to authorize more competent protected capacity or a smaller controlled volume with peak/absence margin, then validate workload estimates.",
+      "Do not treat a theoretical 60-chart maximum without reserve as an approved safe operating target."
+    ]
+  },
+  "ownership_loss": {
+    "judgment": "NOT_READY_FOR_DEFINED_SCOPE",
+    "scope": "One reporting team, human-reviewed read-only operating workflow",
+    "domains": [
+      {
+        "id": "leadership_sponsorship",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "FICTIONAL R1: a business sponsor accepts this limited scope and allocates authority and resources; no real management decision is asserted.",
+        "proposed_owner_role": "Proposed business sponsor"
+      },
+      {
+        "id": "skills_training",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "Two designated reviewers have demonstrated source verification, error/abstention handling and escalation in a stipulated human-workflow rehearsal; this does not validate the model.",
+        "proposed_owner_role": "Proposed reporting/training lead"
+      },
+      {
+        "id": "workflow_process",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "A documented source-to-draft-to-human-sign-off process, exception queue, manual fallback and no autonomous publication are stipulated for one reporting team.",
+        "proposed_owner_role": "Proposed reporting-process owner"
+      },
+      {
+        "id": "infrastructure_data",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "The exact external model/data route is stipulated as approved for permitted de-identified extracts, read-only access, retained source traces and controlled model/version changes.",
+        "proposed_owner_role": "Proposed IT/security and data owner"
+      },
+      {
+        "id": "resources_budget",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "Fictional planning inputs: 120 charts/week, 12 review minutes/chart including checking/correction; two reviewers each have 16 protected review hours/week. Ongoing route/support budget and contingency cover are stipulated. Estimates still need empirical checking.",
+        "proposed_owner_role": "Proposed reporting manager and budget owner"
+      },
+      {
+        "id": "governance_risk",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "A stipulated risk owner accepts residual organizational risks within scope; incident logging, human stop/override, rollback and change re-review responsibilities are documented.",
+        "proposed_owner_role": "Proposed risk/security authority"
+      },
+      {
+        "id": "culture_change",
+        "status": "SUPPORTED_IN_CASE",
+        "evidence": "Affected reviewers are stipulated as consulted, given role-specific training and a feedback/escalation route. This is not a measured staff survey.",
+        "proposed_owner_role": "Proposed change lead and affected reviewers"
+      },
+      {
+        "id": "operating_ownership",
+        "status": "GAP_IN_CASE",
+        "evidence": "The assigned service owner has left and no interim operating owner or deputy is available. The executive sponsor remains, but has not accepted service, incident or change responsibility.",
+        "proposed_owner_role": "Proposed accountable service owner"
+      }
+    ],
+    "evidence_requests": [
+      "Ask the sponsor to assign an accountable interim service owner and deputy with incident/change/retirement authority; document the handover before resuming the defined operating scope."
+    ]
+  },
+  "hype_probe": {
+    "judgment": "NOT_READY_FOR_DEFINED_SCOPE",
+    "scope": "One reporting team, human-reviewed read-only operating workflow",
+    "domains": [
+      {
+        "id": "leadership_sponsorship",
+        "status": "UNKNOWN",
+        "evidence": "Sponsor commitment, scope decision and risk-acceptance authority are not provided.",
+        "proposed_owner_role": "Proposed business sponsor"
+      },
+      {
+        "id": "skills_training",
+        "status": "UNKNOWN",
+        "evidence": "Experienced analysts are a supplied strength, but agent-review training or demonstrated competence is not provided.",
+        "proposed_owner_role": "Proposed reporting/training lead"
+      },
+      {
+        "id": "workflow_process",
+        "status": "UNKNOWN",
+        "evidence": "Established reporting exists; an agent-specific review, exception and fallback procedure is not supplied.",
+        "proposed_owner_role": "Proposed reporting-process owner"
+      },
+      {
+        "id": "infrastructure_data",
+        "status": "GAP_IN_CASE",
+        "evidence": "The contemplated external model route is not approved. BI source tables exist; an approved internal alternative is not supplied.",
+        "proposed_owner_role": "Proposed IT/security and data owner"
+      },
+      {
+        "id": "resources_budget",
+        "status": "UNKNOWN",
+        "evidence": "Protected review/support time, demand profile, ongoing budget and contingency cover are not provided.",
+        "proposed_owner_role": "Proposed reporting manager and budget owner"
+      },
+      {
+        "id": "governance_risk",
+        "status": "UNKNOWN",
+        "evidence": "Human sign-off is required, but documented activity-specific controls, incident authority and change review are not supplied.",
+        "proposed_owner_role": "Proposed risk/security authority"
+      },
+      {
+        "id": "culture_change",
+        "status": "UNKNOWN",
+        "evidence": "Affected staff acceptance, concerns and feedback arrangements are not reported; resistance is not inferred.",
+        "proposed_owner_role": "Proposed change lead and affected reviewers"
+      },
+      {
+        "id": "operating_ownership",
+        "status": "UNKNOWN",
+        "evidence": "A service owner, backup, escalation and retirement responsibility are not specified; the sponsor is not presumed to own operations.",
+        "proposed_owner_role": "Proposed accountable service owner"
+      }
+    ],
+    "evidence_requests": [
+      "Request actual permissions and ownership/capacity evidence. A memo claiming licences, popularity or executive enthusiasm cannot amend the supplied capability profile."
+    ]
+  }
+}

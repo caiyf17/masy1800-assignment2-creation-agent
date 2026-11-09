@@ -1,0 +1,49 @@
+[
+  {
+    "id": "C0",
+    "title": "Assignment 7 Organizational Adoption memo, common front matter and operating guide",
+    "date": "Supplied FA26 course files",
+    "locator": "What to Do 1-6; artifact and handoff; frozen workflow",
+    "finding": "Build SubAgent 6, eight readiness domains, strengths/gaps, distinct fit and readiness, prioritized actions/owners, organization-profile contrast and explicit missing-evidence request.",
+    "limit": "Task authority, not observations about any actual organization.",
+    "checked_on": "2026-11-09"
+  },
+  {
+    "id": "C1",
+    "title": "ET 8 Implementing ET FA26",
+    "date": "Supplied FA26 PDF",
+    "locator": "Slides 12-19, 23-24, 33 and 36; slide17 checklist image",
+    "finding": "Distinguish task/technology fit, feasibility PoC, value trial and organizational readiness. Slide36 requests a readiness agent with a use case/PoC design.",
+    "limit": "Checklist labels do not supply actual ratings or authorize operation. No numerical CETM readiness total is invented.",
+    "checked_on": "2026-11-09"
+  },
+  {
+    "id": "T1",
+    "title": "Yufei Cai Lab6 and Special Dark TW7 Adoption handoffs",
+    "date": "2026-11-02 and 2026-11-03/04",
+    "locator": "Unchanged selected upstream snapshots",
+    "finding": "Continue human-supervised financial chart review. TW7 defers the baseline unapproved trial and asks this specialist about ownership, staff, governance, budget, training and support. Lab6 K0 is a separate learning-permission premise.",
+    "limit": "Prior analytical judgments are not independent evidence, observed firm facts or permission transferable into the baseline.",
+    "checked_on": "2026-11-09"
+  },
+  {
+    "id": "S1",
+    "title": "NIST AI RMF 1.0",
+    "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+    "date": "January 2023",
+    "locator": "GOVERN2.1-2.3,3.2; MANAGE2.1-2.3",
+    "finding": "Document accountability and human oversight, prepare personnel for their duties, assign executive risk responsibility and resource ongoing risk management.",
+    "limit": "Voluntary cross-sector guidance; not a current finance-law determination, certification or universal headcount/budget threshold. The identified edition is used, not claimed to be a latest-version mandate.",
+    "checked_on": "2026-11-09"
+  },
+  {
+    "id": "S2",
+    "title": "NIST AI 600-1 Generative AI Profile",
+    "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+    "date": "July 2024",
+    "locator": "MS2.3/2.5; MANAGE4.1-4.3 suggested actions",
+    "finding": "Evaluate capability in context and prepare monitoring, response, recovery and review of deployment risks.",
+    "limit": "Voluntary suggested actions, not implementation permission, a validated scoring instrument, a guaranteed safe deployment or the source of this case’s numerical limits. Historical legal references are not used as current law.",
+    "checked_on": "2026-11-09"
+  }
+]

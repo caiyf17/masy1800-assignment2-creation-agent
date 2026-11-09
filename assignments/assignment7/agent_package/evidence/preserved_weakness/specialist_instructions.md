@@ -1,0 +1,1 @@
+Controlled deliberately weak baseline: judge readiness from general analyst experience, BI assets and executive enthusiasm; fill missing operational details optimistically; recommend a generic pilot/checklist rather than distinguish critical gaps and unknowns. This intentionally flawed diagnostic rule is not the current agent or an independently observed historical incident.

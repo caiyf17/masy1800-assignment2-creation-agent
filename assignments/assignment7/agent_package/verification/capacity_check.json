@@ -1,0 +1,11 @@
+{
+  "status": "Fictional planning arithmetic, not measured workload or productivity",
+  "charts_per_week": 120,
+  "complete_review_minutes_per_chart": 12,
+  "demand_minutes_per_week": 1440,
+  "demand_hours_per_week": 24.0,
+  "R1_protected_hours": 32,
+  "shortfall_profile_protected_hours": 12,
+  "shortfall_hours": 12.0,
+  "no_buffer_ceiling_charts": 60.0
+}

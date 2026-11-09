@@ -1,0 +1,11 @@
+{
+  "team": "Special Dark",
+  "version": "1.0",
+  "status": "team_accepted",
+  "accepted_by_report": "Yufei Cai",
+  "confirmation_zh": "团队认可，可标记为认可版",
+  "date": "2026-11-03",
+  "decision": "DEFER current unapproved chart-agent trial; scoped permission can support conservative monitoring or aggressive PoC. Qualified evidence is required for later experiment/adoption.",
+  "dissent_retained": "Proportionate safe learning may be preferable to extended monitoring once actually authorized.",
+  "approval_scope": "Analytical package acceptance, not real firm permission or an assertion about attendance."
+}

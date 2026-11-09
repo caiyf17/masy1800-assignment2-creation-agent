@@ -1,0 +1,26 @@
+[
+  {
+    "priority": "P0",
+    "gap_or_unknown": "Known: proposed external route unapproved. Unknown: actual scope/authority and accountable service ownership.",
+    "action": "Document allowed model/data/environment, human release/stop responsibility and an explicit service-owner/deputy assignment before the dependent activity.",
+    "proposed_owner": "Business sponsor with security/data authority; proposed operating owner",
+    "closure_evidence": "Scope-specific approval, responsibility record and no inferred internal substitute",
+    "review": "Proposed two-week evidence review; no execution until conditions are actually met"
+  },
+  {
+    "priority": "P1",
+    "gap_or_unknown": "Agent-review competence, specific SOP, workload/capacity, support funding and incident procedures are unknown.",
+    "action": "Rehearse source checking, abstention and escalation; collect complete handling time and workload/peak/leave cover; fund protected review/support and approve the limited scope.",
+    "proposed_owner": "Reporting manager, process/training lead and budget/risk owner",
+    "closure_evidence": "Competence/workflow rehearsal, workload/roster plan, prospective budget and stop/rollback record",
+    "review": "Before any separately authorized bounded study or later operating scope"
+  },
+  {
+    "priority": "P2",
+    "gap_or_unknown": "Sustained ownership, change acceptance and ongoing feedback/change/retirement arrangements need evidence.",
+    "action": "Maintain feedback and incident review, retraining, support/deputy cover and reassessment on model/data/workflow/resource change.",
+    "proposed_owner": "Assigned service owner with change lead and affected reviewers",
+    "closure_evidence": "Dated monitoring/incident/change logs, feedback response and funded lifecycle responsibilities",
+    "review": "During any authorized scope; revisit after changes or loss of coverage"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "snapshot": "evidence/upstream/lab6/primary_response.json",
+    "source": "/Users/cyf/Documents/NYU/2026fall/1800/Lab/Lab6/Cai_Yufei_Lab6_Adoption_Agent/agent_package/agents/adoption_agent/responses/primary_response.json",
+    "sha256": "24af46628e158c1e1f0f4d7e5beac4da2cab438696c58eef6e5cf8a3e6df60a9"
+  },
+  {
+    "snapshot": "evidence/upstream/lab6/team_handoff.md",
+    "source": "/Users/cyf/Documents/NYU/2026fall/1800/Lab/Lab6/Cai_Yufei_Lab6_Adoption_Agent/agent_package/records/team_handoff.md",
+    "sha256": "dcc0b7968067c9b4e1213a985bcb8af9120c411fb6133c89d01b147443463267"
+  },
+  {
+    "snapshot": "evidence/upstream/tw7/primary.json",
+    "source": "/Users/cyf/Documents/NYU/2026fall/1800/Team Workshop/TW7/Special_Dark_TW7_Adoption_Agent/agent_package/agents/adoption_agent/cases/primary.json",
+    "sha256": "860fdd6b8efb47cab372445ee82b8540862506085813d64a4120b8ee5ff409f5"
+  },
+  {
+    "snapshot": "evidence/upstream/tw7/primary_response.json",
+    "source": "/Users/cyf/Documents/NYU/2026fall/1800/Team Workshop/TW7/Special_Dark_TW7_Adoption_Agent/agent_package/agents/adoption_agent/responses/primary_response.json",
+    "sha256": "9a8f5403aab883304cd1b36dd6dc65755b110cf698f42ff8b474fa030b5e68b6"
+  },
+  {
+    "snapshot": "evidence/upstream/tw7/team_release.json",
+    "source": "/Users/cyf/Documents/NYU/2026fall/1800/Team Workshop/TW7/Special_Dark_TW7_Adoption_Agent/agent_package/records/team_release.json",
+    "sha256": "fdd00973c259e2511dda36a49c2cee2551bf58dffe388d41b23622b59cf856c2"
+  },
+  {
+    "snapshot": "evidence/upstream/tw7/team_handoff.md",
+    "source": "/Users/cyf/Documents/NYU/2026fall/1800/Team Workshop/TW7/Special_Dark_TW7_Adoption_Agent/agent_package/records/team_handoff.md",
+    "sha256": "b22ab545b95258b2f41bf5c25ec273693c89e107af761c2dcc4c0518d09361e1"
+  }
+]

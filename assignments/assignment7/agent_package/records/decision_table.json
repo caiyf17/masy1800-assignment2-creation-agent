@@ -1,0 +1,34 @@
+[
+  {
+    "case": "primary",
+    "judgment": "NOT_READY_FOR_DEFINED_SCOPE"
+  },
+  {
+    "case": "readiness_contrast",
+    "judgment": "SUPPORTED_CONDITIONAL_ON_ADOPTION_CLEARANCE"
+  },
+  {
+    "case": "sponsor_only",
+    "judgment": "NOT_READY_FOR_DEFINED_SCOPE"
+  },
+  {
+    "case": "bounded_poc_only",
+    "judgment": "LIMITED_LEARNING_ONLY"
+  },
+  {
+    "case": "capacity_unknown",
+    "judgment": "MORE_EVIDENCE_REQUIRED"
+  },
+  {
+    "case": "capacity_shortfall",
+    "judgment": "NOT_READY_FOR_DEFINED_SCOPE"
+  },
+  {
+    "case": "ownership_loss",
+    "judgment": "NOT_READY_FOR_DEFINED_SCOPE"
+  },
+  {
+    "case": "hype_probe",
+    "judgment": "NOT_READY_FOR_DEFINED_SCOPE"
+  }
+]
