@@ -3,7 +3,7 @@
   "date": "2026-11-16",
   "report_pages": 5,
   "all_latest_pages_visually_reviewed": true,
-  "report_sha256": "32d2cac7e35087a353b61dc153bdb2d687660974a7153d7c9acda1857f19fe1e",
+  "report_sha256": "5c7d94d29edb97760b130e6c7f2fe7ea8d5110656655df21f153106643d50005",
   "template_sha256": "5275ea28e66a27d5ddfae3c0541ce7cf7711655a450da7eecb4d36b0ced7e802",
   "package_parts": 19,
   "preserved_byte_identical_parts": 13,
@@ -16,15 +16,14 @@
     "word/footer1.xml"
   ],
   "original_relationships_and_page_geometry_preserved": true,
-  "no_empty_report_cells_placeholders_comments_or_tracked_changes": true,
+  "no_empty_cells_placeholders_comments_or_tracked_changes": true,
   "canonical_files_unchanged": 32,
   "frozen_core_files_unchanged": 7,
-  "original_inputs_unchanged": 6,
-  "upstream_originals_unchanged": 4,
-  "local_artifact_checks": "169/169",
+  "original_inputs_and_upstream_unchanged": true,
+  "local_artifact_checks": "171/171",
   "final_cases": 6,
   "controlled_negative_examples": 2,
-  "source_scope_types": 5,
-  "reflection_basis": "Earlier explicit user takeaway; not falsely represented as a fresh Lab8 response.",
-  "publication": "Local only pending user choice; no remote upload or Brightspace posting claimed."
+  "reflection_basis": "Fresh explicit Lab8 user input on2026-11-16, translated/developed with AI.",
+  "publication_authorization": "\u540c\u610f\u4e0a\u4f20\u672c\u6b21 Lab8 \u6210\u54c1",
+  "publication_scope": "Authorized new assignment-8-landscape-agent branch only; final remote verification in repository_handoff.json."
 }

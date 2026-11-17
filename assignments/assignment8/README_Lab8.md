@@ -7,4 +7,4 @@ From agent_package, run `python3 verification/recheck.py` for standard-library s
 
 Repository: https://github.com/caiyf17/masy1800-assignment2-creation-agent
 Assignment branch: assignment-8-landscape-agent
-Repository publication status and exact commits are in repository_handoff.json when delivery is finalized. No main merge or Brightspace upload is performed automatically.
+Repository publication status and exact verified source commits are in repository_handoff.json. No main merge, earlier-branch change or Brightspace upload is performed. The final ZIP includes this record and the same final Word report.

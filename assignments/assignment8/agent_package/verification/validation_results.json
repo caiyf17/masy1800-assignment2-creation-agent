@@ -1,6 +1,6 @@
 {
-  "passed": 169,
-  "total": 169,
+  "passed": 171,
+  "total": 171,
   "all_passed": true,
   "scope": "Artifact bytes, contract subset/types, exact packets, isolation/invariance, declared analytical fixtures, source-date/maintenance controls and monitoring fields. Not independent model reliability or measured task value.",
   "checks": [
@@ -678,6 +678,14 @@
     },
     {
       "check": "six final contexts",
+      "passed": true
+    },
+    {
+      "check": "fresh Lab8 reflection input",
+      "passed": true
+    },
+    {
+      "check": "Lab8 publication explicitly authorized",
       "passed": true
     }
   ]
