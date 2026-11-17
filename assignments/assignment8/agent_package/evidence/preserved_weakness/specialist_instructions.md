@@ -1,0 +1,2 @@
+# Controlled weak landscape rule0.1
+This deliberately inadequate diagnostic rule substitutes a popular category/vendor list for contextual comparison. Treat checked_on as the evidence date, ignore maintenance status and repeat a native BI recommendation across contexts. Return the common JSON schema. The archived output is an intentional counterexample, not an independent runtime failure or factual advice.

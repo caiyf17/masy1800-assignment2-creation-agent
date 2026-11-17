@@ -1,0 +1,38 @@
+{
+  "schema_changed": false,
+  "fields": [
+    {
+      "content": "as-of date and horizon",
+      "existing_keys": "management_question; time_horizon; additional_context"
+    },
+    {
+      "content": "exact task and adequate incumbent comparator",
+      "existing_keys": "intended_application; business_need; capabilities_constraints"
+    },
+    {
+      "content": "organization and stakeholders/posture/consequences",
+      "existing_keys": "organization; industry_sector; users_stakeholders; adoption_posture; risk_consequence_context"
+    },
+    {
+      "content": "allowed model/data/tool route and owner/cover",
+      "existing_keys": "capabilities_constraints"
+    },
+    {
+      "content": "actual platform, version, feature surface and tenant eligibility",
+      "existing_keys": "capabilities_constraints"
+    },
+    {
+      "content": "quality standard and complete workload/cost including exit",
+      "existing_keys": "capabilities_constraints"
+    },
+    {
+      "content": "source type, original URL, update/version/observation date, checked_on and maintenance",
+      "existing_keys": "additional_context"
+    },
+    {
+      "content": "monitoring owner, refresh cadence and decision-changing trigger",
+      "existing_keys": "capabilities_constraints; additional_context"
+    }
+  ],
+  "integration_rule": "Preserve source dates/maintenance and scope with each claim. Do not average away a missing approval or overwrite Adoption/SubAgent6. Ask the relevant human when specialist outputs conflict."
+}

@@ -1,0 +1,46 @@
+{
+  "as_of": "2026-11-16",
+  "scope": "Chart-review primary; no weighted score or winner ranking",
+  "options": [
+    {
+      "option": "Manual review plus deterministic source checks",
+      "relationship": "Incumbent/conventional substitute for verifiable rules; human interpretation retained",
+      "position": "KEEP_BASELINE",
+      "case_relevance": "Primary strongest conventional alternative; existing source workflow is available while execution route is blocked.",
+      "evidence": "Stipulated existing reporting foundation; analytical comparison, not a measured superiority claim.",
+      "reopen": "A permitted chart-specific comparison shows material quality-adjusted advantage including all effort."
+    },
+    {
+      "option": "Constrained model assistance without an agent loop",
+      "relationship": "Partial alternative",
+      "position": "COMPARE_IF_AUTHORIZED",
+      "case_relevance": "Tests whether interpretation help requires autonomous tool selection at all.",
+      "evidence": "Proposed design alternative; no measured task result.",
+      "reopen": "Same-task authorized comparison establishes traceable benefit beyond adequate simple tools."
+    },
+    {
+      "option": "Native BI assistance such as Power BI Copilot",
+      "relationship": "Partial alternative/complement, not certified chart validator",
+      "position": "WATCH",
+      "case_relevance": "Relevant only if actual platform/tenant, exact surface and allowed data handling qualify; not known here.",
+      "evidence": "S2 vendor description, mutable, checked2026-11-16.",
+      "reopen": "Verified actual eligibility, specific supported feature/release status and traceable quality evidence. Do not replace the BI platform just to fit the example."
+    },
+    {
+      "option": "Human-supervised agent workflow",
+      "relationship": "Candidate task approach",
+      "position": "COMPARE_IF_AUTHORIZED",
+      "case_relevance": "Needs an allowed route and local quality/effort comparison; not approved in primary.",
+      "evidence": "S1/S6 broad context; S4 is software-task evidence only; no local chart benchmark supplied.",
+      "reopen": "Relevant source-linked comparison on an explicitly permitted scope plus readiness/Adoption clearance."
+    },
+    {
+      "option": "MCP and source/evaluation infrastructure",
+      "relationship": "Complementary protocol/data/evidence components",
+      "position": "WATCH",
+      "case_relevance": "May support integration and portability; does not create permission or task correctness.",
+      "evidence": "S3 identified revision and implementation responsibility; S2/S5 data/evaluation guidance.",
+      "reopen": "Host/server compatibility and consent/access/log behavior demonstrated for the exact version/route."
+    }
+  ]
+}

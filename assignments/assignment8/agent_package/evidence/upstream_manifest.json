@@ -1,0 +1,22 @@
+[
+  {
+    "path": "evidence/upstream/lab7/agents/organizational_adoption_agent/cases/primary.json",
+    "source": "/Users/cyf/Documents/NYU/2026fall/1800/Lab/Lab7/Cai_Yufei_Lab7_Organizational_Adoption_Agent/agent_package/agents/organizational_adoption_agent/cases/primary.json",
+    "sha256": "f6d6bfea55870fc3fc7a59cb683f51d43d71493ca30a7dbe42e00d8a080f1b98"
+  },
+  {
+    "path": "evidence/upstream/lab7/records/team_handoff.md",
+    "source": "/Users/cyf/Documents/NYU/2026fall/1800/Lab/Lab7/Cai_Yufei_Lab7_Organizational_Adoption_Agent/agent_package/records/team_handoff.md",
+    "sha256": "d2cef66feb8722bd219ab902e95b435752f0e7bbd56bd0cae206451c4a57b543"
+  },
+  {
+    "path": "evidence/upstream/tw8/records/team_decision.md",
+    "source": "/Users/cyf/Documents/NYU/2026fall/1800/Team Workshop/TW8/Special_Dark_TW8_Organizational_Adoption_Agent/agent_package/records/team_decision.md",
+    "sha256": "e5e3b87b9a3d8ace856733a6fd55d135974c7317e38ccf1cb2126d12865ce20f"
+  },
+  {
+    "path": "evidence/upstream/tw8/records/team_handoff.md",
+    "source": "/Users/cyf/Documents/NYU/2026fall/1800/Team Workshop/TW8/Special_Dark_TW8_Organizational_Adoption_Agent/agent_package/records/team_handoff.md",
+    "sha256": "434be0ccea5b5af9273db185768b461ac908ebd720d8d3bf0aff63c33decc357"
+  }
+]

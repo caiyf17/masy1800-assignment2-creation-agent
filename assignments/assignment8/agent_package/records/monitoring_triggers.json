@@ -1,0 +1,60 @@
+{
+  "as_of": "2026-11-16",
+  "policy": "These are proposed review intervals and decision conditions, not externally mandated or empirically validated thresholds.",
+  "triggers": [
+    {
+      "id": "M1",
+      "signal": "Exact allowed data/model/tool route and accountable review/stop authority",
+      "holder_or_proposed_owner": "Proposed sponsor and security/data authority with service owner",
+      "cadence": "Immediately on a decision/change and before any execution",
+      "evidence": "Actual scope-specific approval/denial and accepted owner/cover record",
+      "threshold_or_event": "Previously blocked route becomes explicitly permitted, or existing permission/cover is withdrawn",
+      "action": "Reopen eligible comparison options or halt dependent evaluation; return authority/readiness questions to humans/SubAgent6."
+    },
+    {
+      "id": "M2",
+      "signal": "Vendor feature surface, release status, eligibility and complete current terms",
+      "holder_or_proposed_owner": "Proposed platform owner and procurement/finance role",
+      "cadence": "Every14days; next planned check2026-11-30, and immediately before use/commitment",
+      "evidence": "Original dated/current vendor docs, actual tenant settings/capacity/region and applicable quote/terms",
+      "threshold_or_event": "Material feature/eligibility/deprecation/terms change or stale unverified quote",
+      "action": "Refresh the comparison; suspend dependent availability/price claims until confirmed. Never infer chart validation from report assistance."
+    },
+    {
+      "id": "M3",
+      "signal": "Protocol revision, security notice and actual host/server behavior",
+      "holder_or_proposed_owner": "Proposed IT integration/security owner",
+      "cadence": "Monthly; next planned check2026-12-16, and on a security or integration change",
+      "evidence": "Original revision/release/security notice plus exact-version consent/access/log/compatibility test",
+      "threshold_or_event": "Relevant incompatible revision, access behavior change or unsupported interface",
+      "action": "Reassess integration/exit effort and isolate affected route; a spec publication alone does not require migration or authorize access."
+    },
+    {
+      "id": "M4",
+      "signal": "Relevant independent empirical research and its dataset maintenance/date",
+      "holder_or_proposed_owner": "Proposed evaluation lead",
+      "cadence": "Weekly maintained research-feed review; next planned check2026-11-23; before any model ranking",
+      "evidence": "Original methods/data with task population, model/tool version, observation date, coverage and reliability definition",
+      "threshold_or_event": "A maintained, sufficiently task-matched new result; source becomes inactive or conflicting",
+      "action": "Update confidence/test priorities, not automatically a go decision. METR September8 data remain historical even when reopened."
+    },
+    {
+      "id": "M5",
+      "signal": "Local comparator performance and complete workflow cost",
+      "holder_or_proposed_owner": "Proposed reporting/process owner and evaluation lead",
+      "cadence": "Every model/tool/reference/workflow change and before any broadened use",
+      "evidence": "Authorized representative source-linked tasks, reference answers, misses/false corrections/abstentions and all setup/review/correction/support/exit effort",
+      "threshold_or_event": "Pre-agreed material error condition fails, or meaningful full-effort benefit over adequate baseline is demonstrated",
+      "action": "Escalate/stop on material failure; otherwise send evidence to Adoption and readiness review. Owners set task-specific tolerances before outcomes."
+    },
+    {
+      "id": "M6",
+      "signal": "Analyst attention, investment and broad industry adoption context",
+      "holder_or_proposed_owner": "Proposed technology-intelligence owner",
+      "cadence": "Quarterly and when a directly relevant new primary observation appears",
+      "evidence": "Dated analyst context and original task/industry denominators; distinguish forecasts from observations",
+      "threshold_or_event": "Evidence actually changes a specified dependency or the available comparator set",
+      "action": "Revise only the affected rationale; news volume or generic funding alone does not reopen operating release."
+    }
+  ]
+}

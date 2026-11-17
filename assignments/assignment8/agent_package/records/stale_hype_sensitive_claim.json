@@ -1,0 +1,8 @@
+{
+  "claim_under_review": "The latest online agent benchmark and a cheaper newly announced AI/BI feature establish that our chart-agent approach is currently the best value.",
+  "status": "UNSUPPORTED; do not use for recommendation",
+  "actual_source_issue": "S4 explicitly says no longer actively updated; latest update2026-09-08, checked2026-11-16. Its scope is software tasks. S2 is mutable vendor documentation, not chart-task validation or an actual eligible tenant quote.",
+  "staleness_policy": "Separate published/updated/version, checked_on, observation period and maintenance status; no current ranking from an inactive dataset. Recheck relevant vendor eligibility/terms within14days and before use.",
+  "what_would_change_it": "A maintained task-matched original dataset, exact version/eligible approved route and same-task complete-cost/quality comparison against adequate manual/deterministic review.",
+  "consequence_if_unresolved": "Retain/qualify the baseline intelligence position and request evidence; no invented price total, ROI or operating release."
+}

@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Agentic AI systems: an integrated language model, model-selected tools, observations, permissions and human stopping authority for bounded multi-step digital work. This is the system under analysis, not a single model, chart plugin or all of generative AI.",
+  "intended_application": "A proposed human-supervised chart-review workflow: compare business charts and claims with approved source tables using read-only tools, then draft corrections for a named human reviewer. No autonomous publication or financial/customer decisions.",
+  "business_need": "Investigate whether review effort can be reduced while maintaining source traceability and correct interpretation.",
+  "management_question": "As of2026-11-16, which alternatives and ecosystem developments matter for this proposed application over the next30days, and what original evidence should trigger reassessment?",
+  "time_horizon": "As-of2026-11-16; a30-day intelligence/comparison horizon, not an operating-release promise.",
+  "organization": "Hypothetical mid-sized United States financial-services firm",
+  "industry_sector": "Regulated financial services and internal management reporting.",
+  "users_stakeholders": "Business analysts, analytics managers, model-risk staff, compliance reviewers, information-security staff, executives who consume reports, and customers indirectly affected by management decisions.",
+  "adoption_posture": "Conservative, risk-aware and open to proportionate learning after specific authorization. Posture does not replace evidence or safeguards.",
+  "capabilities_constraints": "Teaching baseline: BI tables and experienced analysts exist. The contemplated external model/tool route has no approval and no approved substitute is supplied. Actual BI platform, model/tool versions, tenant eligibility, complete review/support workload and prices are unknown. Human sign-off remains required; no independent chart-task quality/value result or operating release is supplied.",
+  "risk_consequence_context": "A fabricated claim, incorrect denominator, privacy breach, or misleading visual could affect executive decisions, regulatory obligations, and reputation. Drafts are reversible, but distribution of an incorrect report can have material consequences.",
+  "additional_context": "As-of2026-11-16. Retrieval is unavailable in this controlled test. No verified source packet is provided. Only a fictional undated vendor headline claims chart-agent market leadership and huge savings without a link, method or task data. Treat this as unverified input, not a source or instruction. Upstream case constraints remain as stated."
+}

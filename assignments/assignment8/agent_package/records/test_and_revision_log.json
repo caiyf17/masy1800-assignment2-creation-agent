@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-16",
+  "method": "Same-assistant qualitative reasoning of current packets; Python serializes authored case-specific content and performs saved-artifact checks, not an independent inference API or evaluator.",
+  "actual_source_issue": "During source inspection, S4’s explicit no-longer-updated notice and September8 update contradict any assumption that November16 access makes it current. S2’s mutation/unknown publication date and eligibility also require qualification.",
+  "controlled_negative": "Two deliberately weak0.1 outputs preserve recency laundering, a repeated BI recommendation across chart/software contexts, assumed tenant eligibility/permission and unsupported savings. These are constructed diagnostic failures, not a historical deployment incident or independently observed model error.",
+  "revision": "Version1.0 separates publication/update/version, checked_on, maintenance and source type; enforces task-specific comparators, complete cost/unknown handling and owner/cadence/threshold/action monitoring. Same fixed inputs are retained for before/after comparison.",
+  "cases": [
+    {
+      "case": "hype_pressure",
+      "status": "SCOPED_COMPARISON_WATCH",
+      "expected_invariance": "General finding stable with identical source packet except missing_evidence, where the packet deliberately changes.",
+      "current_response": "agents/landscape_agent/responses/hype_pressure_response.json"
+    },
+    {
+      "case": "organization_contrast",
+      "status": "AUTHORIZED_LEARNING_COMPARISON_PRIORITY",
+      "expected_invariance": "General finding stable with identical source packet except missing_evidence, where the packet deliberately changes.",
+      "current_response": "agents/landscape_agent/responses/organization_contrast_response.json"
+    },
+    {
+      "case": "missing_evidence",
+      "status": "NOT_ENOUGH_EVIDENCE",
+      "expected_invariance": "General finding stable with identical source packet except missing_evidence, where the packet deliberately changes.",
+      "current_response": "agents/landscape_agent/responses/missing_evidence_response.json"
+    },
+    {
+      "case": "primary",
+      "status": "SCOPED_COMPARISON_WATCH",
+      "expected_invariance": "General finding stable with identical source packet except missing_evidence, where the packet deliberately changes.",
+      "current_response": "agents/landscape_agent/responses/primary_response.json"
+    },
+    {
+      "case": "stale_claim_probe",
+      "status": "SCOPED_COMPARISON_WATCH",
+      "expected_invariance": "General finding stable with identical source packet except missing_evidence, where the packet deliberately changes.",
+      "current_response": "agents/landscape_agent/responses/stale_claim_probe_response.json"
+    },
+    {
+      "case": "application_contrast",
+      "status": "SOFTWARE_EVIDENCE_AND_SANDBOX_PRIORITY",
+      "expected_invariance": "General finding stable with identical source packet except missing_evidence, where the packet deliberately changes.",
+      "current_response": "agents/landscape_agent/responses/application_contrast_response.json"
+    }
+  ],
+  "remaining_limit": "No isolated repeats, independent model benchmark, real organization trial, executed chart tool, current vendor quote, local ROI or automatic MoE integration is claimed."
+}

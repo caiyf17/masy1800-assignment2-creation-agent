@@ -1,0 +1,6 @@
+# Handoff to the next team workshop
+SubAgent7 Landscape, version1.0, individual candidate by Yufei Cai. Bring the dated source register, relevant-alternative comparison, primary/organizational/software contrasts, preserved weak example, stale/unsupported/hype controls and monitoring triggers.
+
+Most consequential signal: an actually allowed traceable route plus chart-specific comparative evidence, not generic AI interest. Strongest conventional alternative: manual source review with adequate deterministic denominator/period/range checks. Key trigger: verified scope/eligibility or task-quality/full-effort evidence changes the comparison; withdraw a dependent claim on stale/unavailable evidence. Native BI assistance is an eligible partial alternative only if the actual environment qualifies; MCP is complementary integration, not permission.
+
+Carry existing common fields plus the content requirements in intake_and_integration.json: as-of/version, exact task/baseline, allowed route, eligibility, complete quality/cost and dated source/maintenance/monitoring provenance. This adds intelligence content, not new top-level schema keys or orchestration code. Final MoE design must show disagreements and human authority. No existing team specialist is overwritten, and this individual package does not claim team acceptance or final integration is complete.

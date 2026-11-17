@@ -1,0 +1,75 @@
+{
+  "version": "1.0",
+  "as_of": "2026-11-16",
+  "dimensions": [
+    {
+      "id": "maturity",
+      "question": "Dated category attention and capability limits",
+      "basis": "S1; S6",
+      "boundary": "A Hype Cycle position is background, not a task qualification."
+    },
+    {
+      "id": "incumbent_alternatives",
+      "question": "Manual source review plus deterministic denominator, period and range checks",
+      "basis": "CASE; inference",
+      "boundary": "Benchmark the adequate existing workflow before adding an agent."
+    },
+    {
+      "id": "competing_approaches",
+      "question": "Deterministic workflow, a constrained non-agentic model, native BI assistance, or an agent workflow",
+      "basis": "S2; CASE; inference",
+      "boundary": "Separate substitutes from partial alternatives and complements."
+    },
+    {
+      "id": "complementary_components",
+      "question": "Versioned reference tables, semantic definitions, traces and a representative evaluation set",
+      "basis": "S2; S5; inference",
+      "boundary": "A connector alone does not supply clean data or valid references."
+    },
+    {
+      "id": "vendor_ecosystem",
+      "question": "Specific feature surface, eligibility, release status and integration dependency",
+      "basis": "S2",
+      "boundary": "A product-family name does not establish the exact feature or tenant eligibility."
+    },
+    {
+      "id": "protocols_and_portability",
+      "question": "MCP revision and actual host/server behavior, consent and access controls",
+      "basis": "S3",
+      "boundary": "Interoperability is not permission or guaranteed compatibility."
+    },
+    {
+      "id": "governance_and_obligations",
+      "question": "Allowed route, owner, stopping authority and applicable-policy review",
+      "basis": "T1; S3; S5",
+      "boundary": "No new legal determination; request qualified evidence if a legal claim would change action."
+    },
+    {
+      "id": "investment_and_adoption",
+      "question": "Relevant task/industry denominator and credible funding/usage evidence",
+      "basis": "S1; S6; missing scoped data",
+      "boundary": "Broad enthusiasm and investment do not prove diffusion or value of this chart application."
+    },
+    {
+      "id": "performance_and_cost",
+      "question": "Task-matched independent evidence and complete quality-adjusted workflow cost",
+      "basis": "S4; S5; inference",
+      "boundary": "Software benchmark evidence does not prove chart quality; token cost is not total cost."
+    },
+    {
+      "id": "monitoring_and_exit",
+      "question": "Source age/maintenance, change signal, owner, cadence and decision affected",
+      "basis": "All; proposed policy",
+      "boundary": "A popular update matters only if it changes a stated dependency, comparator or qualification question."
+    }
+  ],
+  "positions": [
+    "KEEP_BASELINE",
+    "COMPARE_IF_AUTHORIZED",
+    "WATCH",
+    "NOT_ENOUGH_EVIDENCE"
+  ],
+  "position_meaning": "Comparison/radar labels are prioritization judgments, not final adoption actions or numerical maturity scores.",
+  "freshness_rule": "Use claim-specific publication/update/version, checked_on and maintenance status. Mutable vendor terms need fresh verification; older valid methodology can remain usable; inactive benchmark data cannot become current through retrieval.",
+  "boundary": "Landscape supplies contextual intelligence and triggers. Adoption/readiness experts and authorized humans retain go/no-go, operating release and legal decisions."
+}

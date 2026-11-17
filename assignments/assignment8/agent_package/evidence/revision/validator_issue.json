@@ -1,0 +1,7 @@
+{
+  "issue": "The first local check matched only the literal phrase same publisher, while the saved output correctly said S1/S6 share a publisher and are not independent confirmations.",
+  "initial_local_result": "168/169 checks passed",
+  "diagnosis": "Overly literal artifact assertion, not an analytical source or model-performance failure.",
+  "repair": "Accept both equivalent phrases while still requiring the not-independent caveat. Source facts and case outputs stay unchanged.",
+  "date": "2026-11-16"
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-16",
+  "method": "Current same-assistant reasoning and qualitative review. Python serializes authored examples, rebuilds exact packets and validates saved artifacts; it does not independently run a model or chart application.",
+  "current_cases": [
+    {
+      "case": "application_contrast",
+      "case_sha256": "26ef39cba511964983c1dab81bd004dee888de37e61b69c4537c666a2a76137e",
+      "prompt_sha256": "037b8c40a322b67b31be51a1791d637c78700c7c1cd2c2496f82be32fcc728f4",
+      "response_sha256": "90e1db756203b3d9b2a03b280ea87809ab0732f27bcfada2537f7b54afd1a704",
+      "position": "SOFTWARE_EVIDENCE_AND_SANDBOX_PRIORITY"
+    },
+    {
+      "case": "hype_pressure",
+      "case_sha256": "351e46613065cee2a400e8eedbd39b25b67abcf60283d0fe713b308e28d705d5",
+      "prompt_sha256": "6693a8d32d8b0ed5695d7276a7f3c0ec7cc970c00eff0385af8f8f884d1d0404",
+      "response_sha256": "f43e1d4e8f62bd2c4e390c0604958c185220a038294849dd7a4bef03db857038",
+      "position": "SCOPED_COMPARISON_WATCH"
+    },
+    {
+      "case": "missing_evidence",
+      "case_sha256": "4681b16cac8f9166733c887e7870765f3330e1bc3e985a6b8222e0baa08e220c",
+      "prompt_sha256": "3edd20c0eaca6aae3ab0733e712ceab33080c12f6ae8bb09f36a425c620ce255",
+      "response_sha256": "633f18f1e0d688c1b4be60f86b6c4bd83673f2980fb805eff3e8ce2a552223db",
+      "position": "NOT_ENOUGH_EVIDENCE"
+    },
+    {
+      "case": "organization_contrast",
+      "case_sha256": "218f86d44928b3e323a83613bb0e98cbd8ebfdc64f1a0740e851427a68e262d9",
+      "prompt_sha256": "ac38993c847c422dc36d986bafdc070beee8dd140e1e54fb74b4b9204836cc71",
+      "response_sha256": "aed590d4e3ccee95833962bd15b884a6b923c25f100776c21426841e26b26eb6",
+      "position": "AUTHORIZED_LEARNING_COMPARISON_PRIORITY"
+    },
+    {
+      "case": "primary",
+      "case_sha256": "25082b54709733edcafb040cc7106b9b4e55866327007edadbb88afdc7d133ac",
+      "prompt_sha256": "9f6cb446f86b69af1927079340715d96c68fa4a5b53f488c5476c53072d3e7c0",
+      "response_sha256": "3024a108a604779939d28f7dccbe56a3a9f5fe96897e3dba5fce0379b115f9cd",
+      "position": "SCOPED_COMPARISON_WATCH"
+    },
+    {
+      "case": "stale_claim_probe",
+      "case_sha256": "32e401278cb0bb2f9f08df83fb5cf9fb93388c94063020ecc36cf50d680162b5",
+      "prompt_sha256": "bf34675bbf29f9f9b4c9989ff5739c1ce601f9f007f9c12ff330acf8f4f636e0",
+      "response_sha256": "d383d9e2a94285c572cb428ff232cc0aa0c8387d4bdb94c8c30853550a459e8e",
+      "position": "SCOPED_COMPARISON_WATCH"
+    }
+  ],
+  "weak_examples": "Two deliberately weak controlled counterexamples, same primary/software inputs; not a historical deployment or isolated observed inference failure.",
+  "actual_source_issue": "The original METR page was inspected and explicitly states it stopped updating at2026-09-08; source-access date2026-11-16 is not observation currency.",
+  "limits": [
+    "No independently repeated model runs or evaluator",
+    "No actual company authorization, vendor quote or pilot",
+    "No application benchmark, ROI or final operating release",
+    "No automatic integration of seven specialists"
+  ]
+}
