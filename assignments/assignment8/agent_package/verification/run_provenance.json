@@ -6,14 +6,14 @@
       "case": "application_contrast",
       "case_sha256": "26ef39cba511964983c1dab81bd004dee888de37e61b69c4537c666a2a76137e",
       "prompt_sha256": "037b8c40a322b67b31be51a1791d637c78700c7c1cd2c2496f82be32fcc728f4",
-      "response_sha256": "90e1db756203b3d9b2a03b280ea87809ab0732f27bcfada2537f7b54afd1a704",
+      "response_sha256": "5df75d25b8ae66e01b20dc155be162a9169ff57c1ce8c25927df788f495a9932",
       "position": "SOFTWARE_EVIDENCE_AND_SANDBOX_PRIORITY"
     },
     {
       "case": "hype_pressure",
       "case_sha256": "351e46613065cee2a400e8eedbd39b25b67abcf60283d0fe713b308e28d705d5",
       "prompt_sha256": "6693a8d32d8b0ed5695d7276a7f3c0ec7cc970c00eff0385af8f8f884d1d0404",
-      "response_sha256": "f43e1d4e8f62bd2c4e390c0604958c185220a038294849dd7a4bef03db857038",
+      "response_sha256": "5b8f60281f6e8446928e6dbfe1d5e9a9505c80b647e2cdde8c3cbe1ef20011c1",
       "position": "SCOPED_COMPARISON_WATCH"
     },
     {
@@ -27,21 +27,21 @@
       "case": "organization_contrast",
       "case_sha256": "218f86d44928b3e323a83613bb0e98cbd8ebfdc64f1a0740e851427a68e262d9",
       "prompt_sha256": "ac38993c847c422dc36d986bafdc070beee8dd140e1e54fb74b4b9204836cc71",
-      "response_sha256": "aed590d4e3ccee95833962bd15b884a6b923c25f100776c21426841e26b26eb6",
+      "response_sha256": "2af87fb3697e812ac9c67511a8d33a9d4b29e0c7700f0a62e3d227524462eb51",
       "position": "AUTHORIZED_LEARNING_COMPARISON_PRIORITY"
     },
     {
       "case": "primary",
       "case_sha256": "25082b54709733edcafb040cc7106b9b4e55866327007edadbb88afdc7d133ac",
       "prompt_sha256": "9f6cb446f86b69af1927079340715d96c68fa4a5b53f488c5476c53072d3e7c0",
-      "response_sha256": "3024a108a604779939d28f7dccbe56a3a9f5fe96897e3dba5fce0379b115f9cd",
+      "response_sha256": "217bbdb1ffecfe377bde38e158199bfb59dbc3ea311f0b0b7a6a17f851131eb1",
       "position": "SCOPED_COMPARISON_WATCH"
     },
     {
       "case": "stale_claim_probe",
       "case_sha256": "32e401278cb0bb2f9f08df83fb5cf9fb93388c94063020ecc36cf50d680162b5",
       "prompt_sha256": "bf34675bbf29f9f9b4c9989ff5739c1ce601f9f007f9c12ff330acf8f4f636e0",
-      "response_sha256": "d383d9e2a94285c572cb428ff232cc0aa0c8387d4bdb94c8c30853550a459e8e",
+      "response_sha256": "917ad33f80a666714de90fc54d9aca1fd7d4fc67c79adf9bb78ebd13bd5b91d4",
       "position": "SCOPED_COMPARISON_WATCH"
     }
   ],

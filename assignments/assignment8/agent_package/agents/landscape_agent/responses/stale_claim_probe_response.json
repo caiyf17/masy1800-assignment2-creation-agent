@@ -19,7 +19,7 @@
     {
       "claim": "Power BI offers AI assistance subject to capacity, admin, region and data-model prerequisites.",
       "source_or_reference": "S2 Microsoft Learn Copilot for Power BI overview https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction",
-      "date_or_recency": "Publication/update/version: None; checked2026-11-16; ",
+      "date_or_recency": "Publication/update/version: unknown (unversioned live documentation); checked2026-11-16; ",
       "evidence_type": "Vendor product documentation",
       "notes": "Unversioned documentation with no publication date established in this review. Vendor capability descriptions do not validate source-to-chart checking; tenant availability, preview/GA surface, complete cost and approved handling need confirmation. No licence price is quoted. Maintenance: Live mutable documentation; recheck specific feature/requirements within14days and before use."
     },
